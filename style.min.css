@@ -3458,7 +3458,7 @@ body:not(.single-default) .gallery .slick-list {
 .banner__cta>div:first-child {
     text-align: center;
     flex-grow: 1;
-    color: #08291d;
+    color: #BB7321;
     font-family: leitura,lato,Calibre,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
     font-size: 1.8rem
 }
@@ -3628,8 +3628,8 @@ button {
 }
 
 .btn--tertiary {
-    background: #08291d;
-    border-color: #08291d;
+    background: #BB7321;
+    border-color: #BB7321;
     color: #fff
 }
 
@@ -5014,7 +5014,7 @@ h2+.grid--tiles {
 }
 
 .nav--secondary {
-    background: #08291d;
+    background: #BB7321;
     color: #fff;
     position: relative;
     z-index: 1;
@@ -8065,7 +8065,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
     display: flex;
     align-items: center;
     height: 100%;
-    color: #08291d;
+    color: #BB7321;
     line-height: 1;
     letter-spacing: 1px;
     font-weight: 700;
@@ -8242,12 +8242,12 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 
 .banner--centenary {
     display: grid;
-    background: #08291d;
+    background: #BB7321;
     min-height: 100vh
 }
 
 .banner--centenary .banner.banner--home {
-    background: #08291d;
+    background: #BB7321;
     margin-top: 0;
     min-height: 465px;
     padding-bottom: 60px;
@@ -8264,12 +8264,12 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 }
 
 .banner--centenary .banner.banner--home::before {
-    background: linear-gradient(212deg,#08291d -7.5%,rgba(8,41,29,0) 23.2%);
+    background: linear-gradient(212deg,#BB7321 -7.5%,rgba(8,41,29,0) 23.2%);
     z-index: 1
 }
 
 .banner--centenary .banner.banner--home::after {
-    background: linear-gradient(12.59deg,#08291d 3.83%,rgba(8,41,29,0) 59.4%);
+    background: linear-gradient(12.59deg,#BB7321 3.83%,rgba(8,41,29,0) 59.4%);
     z-index: 2
 }
 
@@ -8432,7 +8432,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 .history-grid__section {
     position: relative;
     color: #fff;
-    background: #08291d
+    background: #BB7321
 }
 
 .history-grid__section.with-image {
@@ -8456,7 +8456,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
     display: grid;
     grid-template-areas: "date modaal" "title modaal";
     align-content: center;
-    background: #08291d;
+    background: #BB7321;
     padding: 15px 20px;
     margin: auto 0;
     height: 87px;
@@ -8477,7 +8477,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
     height: 0;
     border-style: solid;
     border-width: 0 14.5px 18px 14.5px;
-    border-color: transparent transparent #08291d transparent;
+    border-color: transparent transparent #BB7321 transparent;
     z-index: 1
 }
 
@@ -8686,7 +8686,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
     content: "\EA05";
     font-size: 14px;
     font-size: 1.4rem;
-    color: #08291d;
+    color: #BB7321;
     opacity: .4;
     transition: color var(--timing-long,.2s) ease-in-out
 }
@@ -8831,7 +8831,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 
 .modaal-centenary .modaal-container {
     max-width: 1440px;
-    background: #08291d
+    background: #BB7321
 }
 
 .modaal-centenary .modaal-content-container {
@@ -8872,7 +8872,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 }
 
 .modaal-centenary .modaal-close.on_press::after,.modaal-centenary .modaal-close.on_press::before,html:not(.mobile):not(.tablet) .modaal-centenary .modaal-close:focus::after,html:not(.mobile):not(.tablet) .modaal-centenary .modaal-close:focus::before,html:not(.mobile):not(.tablet) .modaal-centenary .modaal-close:hover::after,html:not(.mobile):not(.tablet) .modaal-centenary .modaal-close:hover::before {
-    background: #08291d
+    background: #BB7321
 }
 
 .modaal-centenary__inner {
@@ -8920,7 +8920,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 
 .modaal-centenary__slide {
     position: relative;
-    background: #08291d
+    background: #BB7321
 }
 
 .modaal-centenary__slide::before {
@@ -9531,7 +9531,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 }
 
 .history__slider--arrows .slick-arrow {
-    color: #08291d;
+    color: #BB7321;
     pointer-events: auto
 }
 
@@ -9569,11 +9569,11 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 }
 
 .centenary--highlights .content--main {
-    background: #08291d
+    background: #BB7321
 }
 
 .centenary--highlights .footer--centenary {
-    background: #08291d;
+    background: #BB7321;
     border-top: 1px solid rgba(255,255,255,.2)
 }
 
@@ -9599,7 +9599,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
     width: 100%;
     min-width: 1000px;
     max-height: 620px;
-    background: linear-gradient(195.78deg,rgba(8,41,29,0) 9.23%,rgba(8,41,29,.687626) 42.8%,#08291d 81.09%);
+    background: linear-gradient(195.78deg,rgba(8,41,29,0) 9.23%,rgba(8,41,29,.687626) 42.8%,#BB7321 81.09%);
     z-index: 1
 }
 
@@ -9612,7 +9612,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
     width: 100%;
     min-width: 1000px;
     max-height: 620px;
-    background: linear-gradient(39.67deg,#08291d 0,#d1dd5c 99.84%);
+    background: linear-gradient(39.67deg,#BB7321 0,#d1dd5c 99.84%);
     z-index: 0
 }
 
@@ -9634,7 +9634,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
     width: 100%;
     min-width: 1000px;
     max-height: 620px;
-    background: linear-gradient(100deg,rgba(8,41,29,0) 20.87%,#08291d 57.81%);
+    background: linear-gradient(100deg,rgba(8,41,29,0) 20.87%,#BB7321 57.81%);
     z-index: 1
 }
 
@@ -9647,7 +9647,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
     width: 100%;
     min-width: 1000px;
     max-height: 620px;
-    background: radial-gradient(94.91% 166.2% at 0 0,rgba(8,41,29,0) 0,#08291d 100%)
+    background: radial-gradient(94.91% 166.2% at 0 0,rgba(8,41,29,0) 0,#BB7321 100%)
 }
 
 .highlights__bg-img {
@@ -9819,7 +9819,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
     width: calc(100% - 81px);
     bottom: 0;
     overflow: auto;
-    background: #08291d;
+    background: #BB7321;
     z-index: -100;
     transition: .5s ease-in-out
 }
@@ -10093,7 +10093,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 }
 
 .footer--main {
-    background: #08291d;
+    background: #BB7321;
     padding-top: 40px;
     padding-bottom: 40px;
     color: #a8a8a8;
@@ -11815,7 +11815,7 @@ html {
     padding-top: 20px;
     z-index: 3;
     position: relative;
-    background: #08291d
+    background: #BB7321
 }
 
 .modal--why-wesley .header__why-wesley>.container>.flex-container {
@@ -11857,7 +11857,7 @@ html {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #08291d;
+    background-color: #BB7321;
     background-image: url(../../img/dragon-why-wes.png);
     background-size: contain;
     background-position: top right;
@@ -12599,7 +12599,7 @@ html {
     width: 100vw;
     height: 100%;
     display: block;
-    border-left: 6px solid #08291d;
+    border-left: 6px solid #BB7321;
     background-color: #f8f8f8;
     opacity: 0;
     pointer-events: none;
@@ -17335,7 +17335,7 @@ body .gform_wrapper.gf_browser_chrome ul.gform_fields li.gfield select {
     }
 
     .header--main .logo-container {
-        background: #08291d;
+        background: #BB7321;
         padding: 0 15px
     }
 
@@ -18020,7 +18020,7 @@ body .gform_wrapper.gf_browser_chrome ul.gform_fields li.gfield select {
     }
 
     .banner--centenary .banner.banner--home::after {
-        background: linear-gradient(18deg,#08291d 0,rgba(8,41,29,0) 55.4%)
+        background: linear-gradient(18deg,#BB7321 0,rgba(8,41,29,0) 55.4%)
     }
 
     .grid--history {
@@ -19668,7 +19668,7 @@ body .gform_wrapper.gf_browser_chrome ul.gform_fields li.gfield select {
         left: 0;
         right: 4px;
         height: 130px;
-        background: linear-gradient(180deg,rgba(8,41,29,0) 0,#08291d 100%);
+        background: linear-gradient(180deg,rgba(8,41,29,0) 0,#BB7321 100%);
         z-index: 2
     }
 
@@ -19699,7 +19699,7 @@ body .gform_wrapper.gf_browser_chrome ul.gform_fields li.gfield select {
         height: var(--header-height,80px);
         width: 200px;
         justify-content: center;
-        background-color: #08291d
+        background-color: #BB7321
     }
 
     .centenary--landing .header--centenary .header__logo .logo {
@@ -21066,7 +21066,7 @@ body .gform_wrapper.gf_browser_chrome ul.gform_fields li.gfield select {
         left: 0;
         width: 100%;
         height: 100px;
-        background: linear-gradient(1800deg,#08291d 3.83%,rgba(8,41,29,0) 59.4%)
+        background: linear-gradient(1800deg,#BB7321 3.83%,rgba(8,41,29,0) 59.4%)
     }
 
     .banner--centenary-content .banner__image {
@@ -21123,7 +21123,7 @@ body .gform_wrapper.gf_browser_chrome ul.gform_fields li.gfield select {
         width: 50px;
         padding: 0;
         color: #fff;
-        background-color: #08291d;
+        background-color: #BB7321;
         transition-property: color,background;
         transition-duration: .2s;
         transition-timing-function: ease-in-out
@@ -21299,7 +21299,7 @@ body .gform_wrapper.gf_browser_chrome ul.gform_fields li.gfield select {
 
     .waw-main .tabs button.is-active {
         background-color: #f8f6f2;
-        color: #08291d;
+        color: #BB7321;
         cursor: default
     }
 
@@ -21340,7 +21340,7 @@ body .gform_wrapper.gf_browser_chrome ul.gform_fields li.gfield select {
         width: calc(100% - 81px);
         bottom: 0;
         overflow: auto;
-        background: #08291d;
+        background: #BB7321;
         z-index: -100;
         transition: .5s ease-in-out;
         border-bottom: 5px solid #7d6e44
