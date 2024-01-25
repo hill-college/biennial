@@ -7882,7 +7882,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
     display: inline-flex;
     align-items: center;
     min-height: 24px;
-    background-color: #7d6e44;
+    background-color: #bb7321;
     font-weight: 900;
     border-radius: 12.5px;
     padding: 0 10px;
@@ -8076,7 +8076,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 }
 
 .wesley-home__link.on_press,html:not(.mobile):not(.tablet) .wesley-home__link:focus,html:not(.mobile):not(.tablet) .wesley-home__link:hover {
-    color: #7d6e44
+    color: #bb7321
 }
 
 .wesley-home__link::after {
@@ -8116,7 +8116,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 .nav--centenary>ul>li>a:after {
     display: block;
     right: 50%;
-    background: #7d6e44;
+    background: #bb7321;
     height: 4px;
     position: absolute;
     top: 0;
@@ -8136,7 +8136,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 }
 
 .nav--centenary>ul>li.current-menu-item>a {
-    border-left: 4px solid #7d6e44
+    border-left: 4px solid #bb7321
 }
 
 .nav--centenary>ul>li.current-menu-item>a:after {
@@ -8351,8 +8351,8 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 }
 
 .banner--centenary .banner__grid .btn--border.on_press,html:not(.mobile):not(.tablet) .banner--centenary .banner__grid .btn--border:focus,html:not(.mobile):not(.tablet) .banner--centenary .banner__grid .btn--border:hover {
-    border: 2px solid #7d6e44;
-    background-color: #7d6e44
+    border: 2px solid #bb7321;
+    background-color: #bb7321
 }
 
 .banner--centenary .banner__grid .btn--cover::after {
@@ -8395,7 +8395,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
     font-size: 3.4rem;
     line-height: 43px;
     font-family: leitura,lato,Calibre,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
-    color: #7d6e44
+    color: #bb7321
 }
 
 .banner--centenary-content .banner__description {
@@ -8416,7 +8416,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 .grid--history__title {
     font-size: 40px;
     font-size: 4rem;
-    background-color: #7d6e44;
+    background-color: #bb7321;
     color: #fff
 }
 
@@ -8647,7 +8647,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 .card--centenary-cta .card__subtitle {
     font-size: 20px;
     font-size: 2rem;
-    color: #7d6e44;
+    color: #bb7321;
     line-height: 1.3;
     font-family: leitura,lato,Calibre,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif
 }
@@ -8692,7 +8692,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 }
 
 .card--centenary-cta.on_press,html:not(.mobile):not(.tablet) .card--centenary-cta:focus,html:not(.mobile):not(.tablet) .card--centenary-cta:hover {
-    background-color: #7d6e44
+    background-color: #bb7321
 }
 
 .card--centenary-cta.on_press .card__subtitle,.card--centenary-cta.on_press .card__title,html:not(.mobile):not(.tablet) .card--centenary-cta:focus .card__subtitle,html:not(.mobile):not(.tablet) .card--centenary-cta:focus .card__title,html:not(.mobile):not(.tablet) .card--centenary-cta:hover .card__subtitle,html:not(.mobile):not(.tablet) .card--centenary-cta:hover .card__title {
@@ -8710,7 +8710,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 }
 
 .card--centenary-cta.on_press .card__arrow::before,html:not(.mobile):not(.tablet) .card--centenary-cta:focus .card__arrow::before,html:not(.mobile):not(.tablet) .card--centenary-cta:hover .card__arrow::before {
-    color: #7d6e44
+    color: #bb7321
 }
 
 .card--centenary-person {
@@ -8850,7 +8850,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
     left: 0;
     height: 5px;
     width: 100%;
-    background: linear-gradient(90deg,#7d6e44 20%,#b49746 97%)
+    background: linear-gradient(90deg,#bb7321 20%,#b49746 97%)
 }
 
 .modaal-centenary .modaal-close {
@@ -9402,7 +9402,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 }
 
 .footer--centenary .wesley-home__link.on_press,html:not(.mobile):not(.tablet) .footer--centenary .wesley-home__link:focus,html:not(.mobile):not(.tablet) .footer--centenary .wesley-home__link:hover {
-    color: #7d6e44
+    color: #bb7321
 }
 
 .footer--centenary .wesley-home__link::after {
@@ -9443,7 +9443,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 }
 
 .footer--centenary .footer__list a.on_press,html:not(.mobile):not(.tablet) .footer--centenary .footer__list a:focus,html:not(.mobile):not(.tablet) .footer--centenary .footer__list a:hover {
-    color: #7d6e44
+    color: #bb7321
 }
 
 .section--history {
@@ -9461,7 +9461,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
     line-height: 35px;
     margin: 25px 0;
     text-align: center;
-    color: #7d6e44
+    color: #bb7321
 }
 
 .history-nav {
@@ -9755,7 +9755,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 }
 
 .centenary--content .h2,.centenary--content h2 {
-    color: #7d6e44
+    color: #bb7321
 }
 
 .centenary--content .page-content {
@@ -9765,19 +9765,19 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 }
 
 .centenary--content .card--person-profile::before {
-    background: #7d6e44
+    background: #bb7321
 }
 
 .centenary--content .table thead td {
-    background: #7d6e44
+    background: #bb7321
 }
 
 .centenary--content blockquote {
-    border-color: #7d6e44
+    border-color: #bb7321
 }
 
 .centenary--content .btn--resource.on_press,html:not(.mobile):not(.tablet) .centenary--content .btn--resource:focus,html:not(.mobile):not(.tablet) .centenary--content .btn--resource:hover {
-    background: #7d6e44
+    background: #bb7321
 }
 
 .header--main {
@@ -18041,7 +18041,7 @@ body .gform_wrapper.gf_browser_chrome ul.gform_fields li.gfield select {
     }
 
     .card--centenary-cta {
-        border-top: 8px solid #7d6e44;
+        border-top: 8px solid #bb7321;
         padding: 30px
     }
 
@@ -21131,7 +21131,7 @@ body .gform_wrapper.gf_browser_chrome ul.gform_fields li.gfield select {
 
     .centenary--landing .header--centenary .wesley-home__link.on_press,html:not(.mobile):not(.tablet) .centenary--landing .header--centenary .wesley-home__link:focus,html:not(.mobile):not(.tablet) .centenary--landing .header--centenary .wesley-home__link:hover {
         color: #fff;
-        background-color: #7d6e44
+        background-color: #bb7321
     }
 
     .footer--centenary .wesley-home__link {
@@ -21343,7 +21343,7 @@ body .gform_wrapper.gf_browser_chrome ul.gform_fields li.gfield select {
         background: #1F2437;
         z-index: -100;
         transition: .5s ease-in-out;
-        border-bottom: 5px solid #7d6e44
+        border-bottom: 5px solid #bb7321
     }
 
     .header--centenary .header__home.wesley-home__link .text {
