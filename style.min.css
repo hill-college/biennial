@@ -1299,7 +1299,7 @@ body {
 }
 
 .page-content .h1,.page-content .h2,.page-content .h3,.page-content .h4,.page-content .h5,.page-content h1,.page-content h2,.page-content h3,.page-content h4,.page-content h5 {
-    color: #064d32
+    color: #1F2437
 }
 
 .page-content .h3,.page-content h3 {
@@ -1387,7 +1387,7 @@ p {
 }
 
 .gfield_fileupload input[type=file]+span,.h1.subtitle,.h2.subtitle,.h3.subtitle,.h4.subtitle,.h5.list--toggle,.h5.subtitle,.list--toggle,.pagination ul li .pagination-arrows__next,.pagination ul li .pagination-arrows__prev,.subtitle,h1.subtitle,h2.subtitle,h3.subtitle,h4.subtitle,h5.list--toggle,h5.subtitle {
-    color: #064d32;
+    color: #1F2437;
     text-transform: uppercase;
     letter-spacing: .2em;
     font-size: 10px;
@@ -1402,7 +1402,7 @@ a {
     text-decoration: none;
     outline: 0;
     transition: .2s ease-in-out;
-    color: #064d32
+    color: #1F2437
 }
 
 a:focus,a:hover {
@@ -1417,7 +1417,7 @@ a:focus,a:hover {
 }
 
 .latest-news p a:not(.btn):focus,.latest-news p a:not(.btn):hover,.page-content p a:not(.btn):focus,.page-content p a:not(.btn):hover {
-    color: #064d32;
+    color: #1F2437;
     -webkit-text-decoration-color: rgba(6,77,50,0);
     text-decoration-color: rgba(6,77,50,0)
 }
@@ -1552,7 +1552,7 @@ a:focus,a:hover {
 }
 
 .single .page-title {
-    color: #064d32;
+    color: #1F2437;
     margin-bottom: .34em;
     font-size: 30px;
     font-size: 3rem
@@ -1581,7 +1581,7 @@ ul.list--links li.title {
     font-family: leitura,lato,Calibre,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
     font-size: 15px;
     font-size: 1.5rem;
-    color: #064d32;
+    color: #1F2437;
     min-width: 66px
 }
 
@@ -1606,7 +1606,7 @@ ul.list--pills li a {
     letter-spacing: .1em;
     font-size: 10px;
     font-size: 1rem;
-    color: #064d32;
+    color: #1F2437;
     font-weight: 900;
     border-radius: 25px
 }
@@ -1621,7 +1621,7 @@ ul.list--pills li.curent-menu-item>a {
 }
 
 ul.list--pills li.curent-menu-item>a:focus,ul.list--pills li.curent-menu-item>a:hover {
-    background: #064d32
+    background: #1F2437
 }
 
 .list--dropdown ul.list--pills {
@@ -1660,7 +1660,7 @@ hr {
     margin: 65px 0 30px;
     margin-left: auto;
     margin-right: auto;
-    border-bottom: 2px solid #064d32
+    border-bottom: 2px solid #1F2437
 }
 
 .list--toggle {
@@ -1763,7 +1763,7 @@ ol.list--numbered li:before {
 }
 
 blockquote {
-    border-left: 5px solid #064d32;
+    border-left: 5px solid #1F2437;
     padding: .56667em .33333em;
     padding-left: 1em;
     line-height: 1.33333;
@@ -1840,7 +1840,7 @@ blockquote small {
 }
 
 .blockquote--breakout>div:nth-child(2) {
-    color: #064d32;
+    color: #1F2437;
     font-family: leitura,lato,Calibre,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
     font-style: italic;
     line-height: 1.2;
@@ -1889,7 +1889,7 @@ body:not(.single-default) .gallery .slick-list {
 }
 
 .gallery .slick-arrow:focus,.gallery .slick-arrow:hover {
-    background: #064d32
+    background: #1F2437
 }
 
 .gallery .slick-arrow:before {
@@ -1948,7 +1948,7 @@ body:not(.single-default) .gallery .slick-list {
 }
 
 .gallery .gallery-item .gallery-icon {
-    background-color: #064d32;
+    background-color: #1F2437;
     background-image: inherit;
     background-position: center center;
     background-repeat: no-repeat;
@@ -2069,7 +2069,7 @@ body:not(.single-default) .gallery .slick-list {
 }
 
 .card .card__image {
-    background-color: #064d32;
+    background-color: #1F2437;
     background-image: inherit;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2121,7 +2121,7 @@ body:not(.single-default) .gallery .slick-list {
 
 .card--dragon>a,.card--dragon>button,.card--dragon>span {
     padding: 20px 10px;
-    background: #064d32;
+    background: #1F2437;
     color: #fff;
     display: block;
     text-align: center;
@@ -2360,8 +2360,8 @@ body:not(.single-default) .gallery .slick-list {
 }
 
 .card--download .card__caption .btn--primary,.card--download .card__caption .gfield_fileupload input[type=file],.card--download .card__caption .gform_wrapper .gform_footer input.button,.card--download .card__caption .gform_wrapper .gform_footer input[type=submit],.card--download .card__caption .gform_wrapper .gform_page_footer .button.gform_button,.card--download .card__caption .gform_wrapper .gform_page_footer .button.gform_next_button,.card--download .card__caption .gform_wrapper .gform_page_footer input.button,.card--download .card__caption .gform_wrapper .gform_page_footer input[type=submit],.card--download .card__caption .give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option,.card--download .card__caption .give-form-wrap .give-form .give-submit,.card--download .card__caption .section--featured-article .card--article-full .btn--read-more,.gfield_fileupload .card--download .card__caption input[type=file],.gform_wrapper .gform_footer .card--download .card__caption input.button,.gform_wrapper .gform_footer .card--download .card__caption input[type=submit],.gform_wrapper .gform_page_footer .card--download .card__caption .button.gform_button,.gform_wrapper .gform_page_footer .card--download .card__caption .button.gform_next_button,.gform_wrapper .gform_page_footer .card--download .card__caption input.button,.gform_wrapper .gform_page_footer .card--download .card__caption input[type=submit],.give-form-wrap #give-gateway-radio-list li .card--download .card__caption input:checked+.give-gateway-option,.give-form-wrap .give-form .card--download .card__caption .give-submit,.section--featured-article .card--article-full .card--download .card__caption .btn--read-more {
-    background: #064d32;
-    border-color: #064d32;
+    background: #1F2437;
+    border-color: #1F2437;
     font-size: 10px;
     font-size: 1rem;
     padding: 8px 18px 7px
@@ -2447,7 +2447,7 @@ body:not(.single-default) .gallery .slick-list {
 }
 
 .card--article-sm .card__caption a:focus h3,.card--article-sm .card__caption a:hover h3 {
-    color: #064d32
+    color: #1F2437
 }
 
 .card--article-sm .btn--ticket {
@@ -2531,7 +2531,7 @@ body:not(.single-default) .gallery .slick-list {
 
 .card--article-full .card__image {
     background-image: url(../../img/placeholder.jpg);
-    background-color: #064d32;
+    background-color: #1F2437;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2632,7 +2632,7 @@ body:not(.single-default) .gallery .slick-list {
 .card--article-event.card--article-full .gfield_fileupload input[type=file]+span:before,.card--article-event.card--article-full .list--toggle:before,.card--article-event.card--article-full .pagination ul li .pagination-arrows__next:before,.card--article-event.card--article-full .pagination ul li .pagination-arrows__prev:before,.card--article-event.card--article-full .subtitle:before,.gfield_fileupload .card--article-event.card--article-full input[type=file]+span:before,.pagination ul li .card--article-event.card--article-full .pagination-arrows__next:before,.pagination ul li .card--article-event.card--article-full .pagination-arrows__prev:before {
     font-family: icons;
     content: "\EA1C";
-    color: #064d32;
+    color: #1F2437;
     font-size: 15px;
     font-size: 1.5rem;
     margin-right: 9px;
@@ -2654,7 +2654,7 @@ body:not(.single-default) .gallery .slick-list {
 }
 
 .gfield_fileupload .sidebar .card--article-event input[type=file]+span,.pagination ul li .sidebar .card--article-event .pagination-arrows__next,.pagination ul li .sidebar .card--article-event .pagination-arrows__prev,.sidebar .card--article-event .gfield_fileupload input[type=file]+span,.sidebar .card--article-event .list--toggle,.sidebar .card--article-event .pagination ul li .pagination-arrows__next,.sidebar .card--article-event .pagination ul li .pagination-arrows__prev,.sidebar .card--article-event .subtitle {
-    color: #064d32;
+    color: #1F2437;
     letter-spacing: .1em
 }
 
@@ -2689,7 +2689,7 @@ body:not(.single-default) .gallery .slick-list {
     content: "";
     display: block;
     height: 5px;
-    background: #064d32;
+    background: #1F2437;
     width: 18.97051%;
     top: 0;
     position: absolute;
@@ -2731,7 +2731,7 @@ body:not(.single-default) .gallery .slick-list {
 .card--person-profile .card__image {
     width: 100%;
     display: block;
-    background-color: #064d32;
+    background-color: #1F2437;
     background-image: inherit;
     background-position: center center;
     background-repeat: no-repeat;
@@ -2745,7 +2745,7 @@ body:not(.single-default) .gallery .slick-list {
 }
 
 .card--person-profile .card__title {
-    color: #064d32;
+    color: #1F2437;
     font-size: 26px;
     font-size: 2.6rem;
     line-height: 1.30731;
@@ -2759,7 +2759,7 @@ body:not(.single-default) .gallery .slick-list {
 }
 
 .card--person-profile a {
-    color: #064d32
+    color: #1F2437
 }
 
 .card--person-profile a:focus,.card--person-profile a:hover {
@@ -2943,7 +2943,7 @@ body:not(.single-default) .gallery .slick-list {
 .card--cta .card__title .gfield_fileupload input[type=file]+span,.card--cta .card__title .list--toggle,.card--cta .card__title .pagination ul li .pagination-arrows__next,.card--cta .card__title .pagination ul li .pagination-arrows__prev,.card--cta .card__title .subtitle,.gfield_fileupload .card--cta .card__title input[type=file]+span,.pagination ul li .card--cta .card__title .pagination-arrows__next,.pagination ul li .card--cta .card__title .pagination-arrows__prev {
     display: block;
     margin-bottom: 3px;
-    color: #064d32
+    color: #1F2437
 }
 
 .card--cta .btn-group {
@@ -2996,7 +2996,7 @@ body:not(.single-default) .gallery .slick-list {
 
 @supports (-webkit-background-clip: text) {
     .card--icon .icon:before {
-        background:linear-gradient(to bottom right,#338632,#064d32);
+        background:linear-gradient(to bottom right,#338632,#1F2437);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent
     }
@@ -3008,7 +3008,7 @@ body:not(.single-default) .gallery .slick-list {
 
 @supports (-webkit-background-clip: text) {
     .page-template-template-science .card--icon .icon:before {
-        background:linear-gradient(to bottom right,#379035,#064d32);
+        background:linear-gradient(to bottom right,#379035,#1F2437);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent
     }
@@ -3527,7 +3527,7 @@ button {
 }
 
 .btn--search:focus:before,.btn--search:hover:before {
-    color: #064d32
+    color: #1F2437
 }
 
 .btn--cream,.btn--primary,.btn--primary-alt,.btn--secondary,.btn--secondary-alt,.btn--tertiary,.btn--white,.gfield_fileupload input[type=file],.gform_wrapper .gform_footer input.button,.gform_wrapper .gform_footer input[type=submit],.gform_wrapper .gform_page_footer .button.gform_button,.gform_wrapper .gform_page_footer .button.gform_next_button,.gform_wrapper .gform_page_footer .button.gform_previous_button,.gform_wrapper .gform_page_footer input.button,.gform_wrapper .gform_page_footer input[type=submit],.give-form-wrap #give-gateway-radio-list li .give-gateway-option,.give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option,.give-form-wrap .give-form .give-submit,.section--featured-article .card--article-full .btn--read-more {
@@ -3558,7 +3558,7 @@ button {
 }
 
 .btn--cream:focus,.btn--cream:hover,.btn--primary-alt:focus,.btn--primary-alt:hover,.btn--primary:focus,.btn--primary:hover,.btn--secondary-alt:focus,.btn--secondary-alt:hover,.btn--secondary:focus,.btn--secondary:hover,.btn--tertiary:focus,.btn--tertiary:hover,.btn--white:focus,.btn--white:hover,.gfield_fileupload input:focus[type=file],.gfield_fileupload input:hover[type=file],.gform_wrapper .gform_footer input.button:focus,.gform_wrapper .gform_footer input.button:hover,.gform_wrapper .gform_footer input:focus[type=submit],.gform_wrapper .gform_footer input:hover[type=submit],.gform_wrapper .gform_page_footer .button.gform_button:focus,.gform_wrapper .gform_page_footer .button.gform_button:hover,.gform_wrapper .gform_page_footer .button.gform_next_button:focus,.gform_wrapper .gform_page_footer .button.gform_next_button:hover,.gform_wrapper .gform_page_footer .button.gform_previous_button:focus,.gform_wrapper .gform_page_footer .button.gform_previous_button:hover,.gform_wrapper .gform_page_footer input.button:focus,.gform_wrapper .gform_page_footer input.button:hover,.gform_wrapper .gform_page_footer input:focus[type=submit],.gform_wrapper .gform_page_footer input:hover[type=submit],.give-form-wrap #give-gateway-radio-list li .give-gateway-option:focus,.give-form-wrap #give-gateway-radio-list li .give-gateway-option:hover,.give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option:focus,.give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option:hover,.give-form-wrap .give-form .give-submit:focus,.give-form-wrap .give-form .give-submit:hover,.section--featured-article .card--article-full .btn--read-more:focus,.section--featured-article .card--article-full .btn--read-more:hover {
-    border-color: #064d32
+    border-color: #1F2437
 }
 
 .btn--cream.btn--sm,.btn--primary-alt.btn--sm,.btn--primary.btn--sm,.btn--secondary-alt.btn--sm,.btn--secondary.btn--sm,.btn--tertiary.btn--sm,.btn--white.btn--sm,.gfield_fileupload input.btn--sm[type=file],.gform_wrapper .gform_footer .give-form-wrap #give-gateway-radio-list li input.give-gateway-option.button,.gform_wrapper .gform_footer .give-form-wrap #give-gateway-radio-list li input.give-gateway-option[type=submit],.gform_wrapper .gform_footer .give-form-wrap #give-gateway-radio-list li input:checked+input.give-gateway-option.button,.gform_wrapper .gform_footer .give-form-wrap #give-gateway-radio-list li input:checked+input.give-gateway-option[type=submit],.gform_wrapper .gform_footer input.btn--cream.button,.gform_wrapper .gform_footer input.btn--cream[type=submit],.gform_wrapper .gform_footer input.btn--primary-alt.button,.gform_wrapper .gform_footer input.btn--primary-alt[type=submit],.gform_wrapper .gform_footer input.btn--secondary-alt.button,.gform_wrapper .gform_footer input.btn--secondary-alt[type=submit],.gform_wrapper .gform_footer input.btn--secondary.button,.gform_wrapper .gform_footer input.btn--secondary[type=submit],.gform_wrapper .gform_footer input.btn--tertiary.button,.gform_wrapper .gform_footer input.btn--tertiary[type=submit],.gform_wrapper .gform_footer input.btn--white.button,.gform_wrapper .gform_footer input.btn--white[type=submit],.gform_wrapper .gform_footer input.button,.gform_wrapper .gform_footer input[type=submit],.gform_wrapper .gform_page_footer .btn--cream.button.gform_button,.gform_wrapper .gform_page_footer .btn--cream.button.gform_next_button,.gform_wrapper .gform_page_footer .btn--primary-alt.button.gform_button,.gform_wrapper .gform_page_footer .btn--primary-alt.button.gform_next_button,.gform_wrapper .gform_page_footer .btn--primary-alt.button.gform_previous_button,.gform_wrapper .gform_page_footer .btn--primary.button.gform_previous_button,.gform_wrapper .gform_page_footer .btn--secondary-alt.button.gform_button,.gform_wrapper .gform_page_footer .btn--secondary-alt.button.gform_next_button,.gform_wrapper .gform_page_footer .btn--secondary-alt.button.gform_previous_button,.gform_wrapper .gform_page_footer .btn--secondary.button.gform_button,.gform_wrapper .gform_page_footer .btn--secondary.button.gform_next_button,.gform_wrapper .gform_page_footer .btn--secondary.button.gform_previous_button,.gform_wrapper .gform_page_footer .btn--tertiary.button.gform_button,.gform_wrapper .gform_page_footer .btn--tertiary.button.gform_next_button,.gform_wrapper .gform_page_footer .btn--tertiary.button.gform_previous_button,.gform_wrapper .gform_page_footer .btn--white.button.gform_button,.gform_wrapper .gform_page_footer .btn--white.button.gform_next_button,.gform_wrapper .gform_page_footer .btn--white.button.gform_previous_button,.gform_wrapper .gform_page_footer .button.gform_button,.gform_wrapper .gform_page_footer .button.gform_next_button,.gform_wrapper .gform_page_footer .button.gform_previous_button,.gform_wrapper .gform_page_footer .give-form-wrap #give-gateway-radio-list li .give-gateway-option.button.gform_button,.gform_wrapper .gform_page_footer .give-form-wrap #give-gateway-radio-list li .give-gateway-option.button.gform_next_button,.gform_wrapper .gform_page_footer .give-form-wrap #give-gateway-radio-list li .give-gateway-option.button.gform_previous_button,.gform_wrapper .gform_page_footer .give-form-wrap #give-gateway-radio-list li input.give-gateway-option.button,.gform_wrapper .gform_page_footer .give-form-wrap #give-gateway-radio-list li input.give-gateway-option[type=submit],.gform_wrapper .gform_page_footer .give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option.button.gform_button,.gform_wrapper .gform_page_footer .give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option.button.gform_next_button,.gform_wrapper .gform_page_footer .give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option.button.gform_previous_button,.gform_wrapper .gform_page_footer .give-form-wrap #give-gateway-radio-list li input:checked+input.give-gateway-option.button,.gform_wrapper .gform_page_footer .give-form-wrap #give-gateway-radio-list li input:checked+input.give-gateway-option[type=submit],.gform_wrapper .gform_page_footer .give-form-wrap .give-form .give-submit.button.gform_previous_button,.gform_wrapper .gform_page_footer .section--featured-article .card--article-full .btn--read-more.button.gform_previous_button,.gform_wrapper .gform_page_footer input.btn--cream.button,.gform_wrapper .gform_page_footer input.btn--cream[type=submit],.gform_wrapper .gform_page_footer input.btn--primary-alt.button,.gform_wrapper .gform_page_footer input.btn--primary-alt[type=submit],.gform_wrapper .gform_page_footer input.btn--secondary-alt.button,.gform_wrapper .gform_page_footer input.btn--secondary-alt[type=submit],.gform_wrapper .gform_page_footer input.btn--secondary.button,.gform_wrapper .gform_page_footer input.btn--secondary[type=submit],.gform_wrapper .gform_page_footer input.btn--tertiary.button,.gform_wrapper .gform_page_footer input.btn--tertiary[type=submit],.gform_wrapper .gform_page_footer input.btn--white.button,.gform_wrapper .gform_page_footer input.btn--white[type=submit],.gform_wrapper .gform_page_footer input.button,.gform_wrapper .gform_page_footer input.button.gform_previous_button,.gform_wrapper .gform_page_footer input[type=submit],.give-form-wrap #give-gateway-radio-list li .btn--sm.give-gateway-option,.give-form-wrap #give-gateway-radio-list li .gform_wrapper .gform_footer input.give-gateway-option.button,.give-form-wrap #give-gateway-radio-list li .gform_wrapper .gform_footer input.give-gateway-option[type=submit],.give-form-wrap #give-gateway-radio-list li .gform_wrapper .gform_footer input:checked+input.give-gateway-option.button,.give-form-wrap #give-gateway-radio-list li .gform_wrapper .gform_footer input:checked+input.give-gateway-option[type=submit],.give-form-wrap #give-gateway-radio-list li .gform_wrapper .gform_page_footer .give-gateway-option.button.gform_button,.give-form-wrap #give-gateway-radio-list li .gform_wrapper .gform_page_footer .give-gateway-option.button.gform_next_button,.give-form-wrap #give-gateway-radio-list li .gform_wrapper .gform_page_footer .give-gateway-option.button.gform_previous_button,.give-form-wrap #give-gateway-radio-list li .gform_wrapper .gform_page_footer input.give-gateway-option.button,.give-form-wrap #give-gateway-radio-list li .gform_wrapper .gform_page_footer input.give-gateway-option[type=submit],.give-form-wrap #give-gateway-radio-list li .gform_wrapper .gform_page_footer input:checked+.give-gateway-option.button.gform_button,.give-form-wrap #give-gateway-radio-list li .gform_wrapper .gform_page_footer input:checked+.give-gateway-option.button.gform_next_button,.give-form-wrap #give-gateway-radio-list li .gform_wrapper .gform_page_footer input:checked+.give-gateway-option.button.gform_previous_button,.give-form-wrap #give-gateway-radio-list li .gform_wrapper .gform_page_footer input:checked+input.give-gateway-option.button,.give-form-wrap #give-gateway-radio-list li .gform_wrapper .gform_page_footer input:checked+input.give-gateway-option[type=submit],.give-form-wrap #give-gateway-radio-list li input:checked+.btn--sm.give-gateway-option,.give-form-wrap .give-form .btn--sm.give-submit,.give-form-wrap .give-form .gform_wrapper .gform_page_footer .give-submit.button.gform_previous_button,.section--featured-article .card--article-full .btn--sm.btn--read-more,.section--featured-article .card--article-full .gform_wrapper .gform_page_footer .btn--read-more.button.gform_previous_button {
@@ -3584,14 +3584,14 @@ button {
 }
 
 .btn--primary:focus,.btn--primary:hover,.gfield_fileupload input:focus[type=file],.gfield_fileupload input:hover[type=file],.gform_wrapper .gform_footer input.button:focus,.gform_wrapper .gform_footer input.button:hover,.gform_wrapper .gform_footer input:focus[type=submit],.gform_wrapper .gform_footer input:hover[type=submit],.gform_wrapper .gform_page_footer .button.gform_button:focus,.gform_wrapper .gform_page_footer .button.gform_button:hover,.gform_wrapper .gform_page_footer .button.gform_next_button:focus,.gform_wrapper .gform_page_footer .button.gform_next_button:hover,.gform_wrapper .gform_page_footer input.button:focus,.gform_wrapper .gform_page_footer input.button:hover,.gform_wrapper .gform_page_footer input:focus[type=submit],.gform_wrapper .gform_page_footer input:hover[type=submit],.give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option:focus,.give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option:hover,.give-form-wrap .give-form .give-submit:focus,.give-form-wrap .give-form .give-submit:hover,.section--featured-article .card--article-full .btn--read-more:focus,.section--featured-article .card--article-full .btn--read-more:hover {
-    background: #064d32;
+    background: #1F2437;
     color: #fff;
     background: linear-gradient(-18deg,#004d32 0,#9ecf7c 100%);
     text-decoration: underline
 }
 
 .btn--primary-alt,.give-form-wrap #give-gateway-radio-list li .give-gateway-option {
-    color: #064d32;
+    color: #1F2437;
     border: 0;
     background: linear-gradient(-18deg,#004d32 0,#9ecf7c 100%)
 }
@@ -3606,14 +3606,14 @@ button {
 }
 
 .btn--primary-alt:focus,.btn--primary-alt:hover,.give-form-wrap #give-gateway-radio-list li .give-gateway-option:focus,.give-form-wrap #give-gateway-radio-list li .give-gateway-option:hover {
-    color: #064d32;
+    color: #1F2437;
     border: 0;
     text-decoration: underline
 }
 
 .btn--secondary {
-    background: #064d32;
-    border-color: #064d32;
+    background: #1F2437;
+    border-color: #1F2437;
     color: #fff
 }
 
@@ -3644,11 +3644,11 @@ button {
 }
 
 .btn--secondary-alt {
-    color: #064d32
+    color: #1F2437
 }
 
 .btn--secondary-alt:focus,.btn--secondary-alt:hover {
-    color: #064d32
+    color: #1F2437
 }
 
 .btn--scroll-down {
@@ -3808,7 +3808,7 @@ button {
 .btn--thumb {
     border: 1px solid rgba(56,64,67,.1);
     padding: 17px 29px 22px;
-    color: #064d32;
+    color: #1F2437;
     font-size: 1.4rem;
     font-weight: 700;
     border-radius: 2px;
@@ -3831,9 +3831,9 @@ button {
 }
 
 .btn--thumb.active {
-    border-color: #064d32;
+    border-color: #1F2437;
     color: #fff;
-    background: #064d32
+    background: #1F2437
 }
 
 .btn--thumb.active:before {
@@ -3908,7 +3908,7 @@ h2+.btn--resource {
 }
 
 .btn--resource>span .section--details {
-    color: #064d32;
+    color: #1F2437;
     text-transform: uppercase;
     letter-spacing: .1em;
     font-size: 1rem;
@@ -3919,7 +3919,7 @@ h2+.btn--resource {
 
 .btn--resource:focus,.btn--resource:hover {
     color: #fff;
-    background: #064d32
+    background: #1F2437
 }
 
 .btn--resource:focus>span .section--details,.btn--resource:hover>span .section--details {
@@ -3938,7 +3938,7 @@ h2+.btn--resource {
 }
 
 .btn--tooltip:focus .tooltip__icon:before,.btn--tooltip:hover .tooltip__icon:before {
-    color: #064d32
+    color: #1F2437
 }
 
 .btn--tooltip.active .tooltip__content {
@@ -3983,7 +3983,7 @@ h2+.btn--resource {
 
 .btn--tooltip .tooltip__content h2 {
     font-size: 1.6rem;
-    color: #064d32;
+    color: #1F2437;
     margin-bottom: .75em
 }
 
@@ -3997,7 +3997,7 @@ h2+.btn--resource {
 }
 
 .btn--map {
-    background: #064d32;
+    background: #1F2437;
     text-transform: uppercase;
     letter-spacing: .15em;
     font-size: 1rem;
@@ -4431,7 +4431,7 @@ form h2 {
     vertical-align: middle;
     text-align: center;
     pointer-events: none;
-    color: #064d32;
+    color: #1F2437;
     font-size: 10px;
     font-size: 1rem;
     height: 64px
@@ -4487,13 +4487,13 @@ form h2 {
 }
 
 .form-input--file .form-control:focus+.file__upload-btn .btn--primary,.form-input--file .form-control:focus+.file__upload-btn .gfield_fileupload input[type=file],.form-input--file .form-control:focus+.file__upload-btn .gform_wrapper .gform_footer input.button,.form-input--file .form-control:focus+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.form-input--file .form-control:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.form-input--file .form-control:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.form-input--file .form-control:focus+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.form-input--file .form-control:focus+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.form-input--file .form-control:focus+.file__upload-btn .give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option,.form-input--file .form-control:focus+.file__upload-btn .give-form-wrap .give-form .give-submit,.form-input--file .form-control:focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.form-input--file .give-form-wrap #give-gateway-radio-list li .give-form .give-input:focus+.file__upload-btn input:checked+.give-gateway-option,.form-input--file .give-form-wrap #give-gateway-radio-list li .give-form .give-select:focus+.file__upload-btn input:checked+.give-gateway-option,.form-input--file .give-form-wrap #give-gateway-radio-list li .give-form .give-stripe-cc-field.focus+.file__upload-btn input:checked+.give-gateway-option,.form-input--file .give-form-wrap #give-gateway-radio-list li .give-form .give-stripe-cc-field:focus+.file__upload-btn input:checked+.give-gateway-option,.form-input--file .give-form-wrap #give-gateway-radio-list li .give-form .give-text-input:focus+.file__upload-btn input:checked+.give-gateway-option,.form-input--file .give-form-wrap #give-gateway-radio-list li .give-form .input:focus+.file__upload-btn input:checked+.give-gateway-option,.form-input--file .give-form-wrap #give-gateway-radio-list li .give-form .phone:focus+.file__upload-btn input:checked+.give-gateway-option,.form-input--file .give-form-wrap #give-gateway-radio-list li .give-form .textfield:focus+.file__upload-btn input:checked+.give-gateway-option,.form-input--file .give-form-wrap #give-gateway-radio-list li .give-form input:focus[type=tel]+.file__upload-btn input:checked+.give-gateway-option,.form-input--file .give-form-wrap #give-gateway-radio-list li .give-form input:focus[type=text]+.file__upload-btn input:checked+.give-gateway-option,.form-input--file .give-form-wrap #give-gateway-radio-list li .give-form select:focus+.file__upload-btn input:checked+.give-gateway-option,.form-input--file .give-form-wrap .give-form .give-input:focus+.file__upload-btn #give-gateway-radio-list li input:checked+.give-gateway-option,.form-input--file .give-form-wrap .give-form .give-input:focus+.file__upload-btn .btn--primary,.form-input--file .give-form-wrap .give-form .give-input:focus+.file__upload-btn .gfield_fileupload input[type=file],.form-input--file .give-form-wrap .give-form .give-input:focus+.file__upload-btn .gform_wrapper .gform_footer input.button,.form-input--file .give-form-wrap .give-form .give-input:focus+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.form-input--file .give-form-wrap .give-form .give-input:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.form-input--file .give-form-wrap .give-form .give-input:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.form-input--file .give-form-wrap .give-form .give-input:focus+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.form-input--file .give-form-wrap .give-form .give-input:focus+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.form-input--file .give-form-wrap .give-form .give-input:focus+.file__upload-btn .give-submit,.form-input--file .give-form-wrap .give-form .give-input:focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.form-input--file .give-form-wrap .give-form .give-select:focus+.file__upload-btn #give-gateway-radio-list li input:checked+.give-gateway-option,.form-input--file .give-form-wrap .give-form .give-select:focus+.file__upload-btn .btn--primary,.form-input--file .give-form-wrap .give-form .give-select:focus+.file__upload-btn .gfield_fileupload input[type=file],.form-input--file .give-form-wrap .give-form .give-select:focus+.file__upload-btn .gform_wrapper .gform_footer input.button,.form-input--file .give-form-wrap .give-form .give-select:focus+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.form-input--file .give-form-wrap .give-form .give-select:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.form-input--file .give-form-wrap .give-form .give-select:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.form-input--file .give-form-wrap .give-form .give-select:focus+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.form-input--file .give-form-wrap .give-form .give-select:focus+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.form-input--file .give-form-wrap .give-form .give-select:focus+.file__upload-btn .give-submit,.form-input--file .give-form-wrap .give-form .give-select:focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.form-input--file .give-form-wrap .give-form .give-stripe-cc-field.focus+.file__upload-btn #give-gateway-radio-list li input:checked+.give-gateway-option,.form-input--file .give-form-wrap .give-form .give-stripe-cc-field.focus+.file__upload-btn .btn--primary,.form-input--file .give-form-wrap .give-form .give-stripe-cc-field.focus+.file__upload-btn .gfield_fileupload input[type=file],.form-input--file .give-form-wrap .give-form .give-stripe-cc-field.focus+.file__upload-btn .gform_wrapper .gform_footer input.button,.form-input--file .give-form-wrap .give-form .give-stripe-cc-field.focus+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.form-input--file .give-form-wrap .give-form .give-stripe-cc-field.focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.form-input--file .give-form-wrap .give-form .give-stripe-cc-field.focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.form-input--file .give-form-wrap .give-form .give-stripe-cc-field.focus+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.form-input--file .give-form-wrap .give-form .give-stripe-cc-field.focus+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.form-input--file .give-form-wrap .give-form .give-stripe-cc-field.focus+.file__upload-btn .give-submit,.form-input--file .give-form-wrap .give-form .give-stripe-cc-field.focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.form-input--file .give-form-wrap .give-form .give-stripe-cc-field:focus+.file__upload-btn #give-gateway-radio-list li input:checked+.give-gateway-option,.form-input--file .give-form-wrap .give-form .give-stripe-cc-field:focus+.file__upload-btn .btn--primary,.form-input--file .give-form-wrap .give-form .give-stripe-cc-field:focus+.file__upload-btn .gfield_fileupload input[type=file],.form-input--file .give-form-wrap .give-form .give-stripe-cc-field:focus+.file__upload-btn .gform_wrapper .gform_footer input.button,.form-input--file .give-form-wrap .give-form .give-stripe-cc-field:focus+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.form-input--file .give-form-wrap .give-form .give-stripe-cc-field:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.form-input--file .give-form-wrap .give-form .give-stripe-cc-field:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.form-input--file .give-form-wrap .give-form .give-stripe-cc-field:focus+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.form-input--file .give-form-wrap .give-form .give-stripe-cc-field:focus+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.form-input--file .give-form-wrap .give-form .give-stripe-cc-field:focus+.file__upload-btn .give-submit,.form-input--file .give-form-wrap .give-form .give-stripe-cc-field:focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.form-input--file .give-form-wrap .give-form .give-text-input:focus+.file__upload-btn #give-gateway-radio-list li input:checked+.give-gateway-option,.form-input--file .give-form-wrap .give-form .give-text-input:focus+.file__upload-btn .btn--primary,.form-input--file .give-form-wrap .give-form .give-text-input:focus+.file__upload-btn .gfield_fileupload input[type=file],.form-input--file .give-form-wrap .give-form .give-text-input:focus+.file__upload-btn .gform_wrapper .gform_footer input.button,.form-input--file .give-form-wrap .give-form .give-text-input:focus+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.form-input--file .give-form-wrap .give-form .give-text-input:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.form-input--file .give-form-wrap .give-form .give-text-input:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.form-input--file .give-form-wrap .give-form .give-text-input:focus+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.form-input--file .give-form-wrap .give-form .give-text-input:focus+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.form-input--file .give-form-wrap .give-form .give-text-input:focus+.file__upload-btn .give-submit,.form-input--file .give-form-wrap .give-form .give-text-input:focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.form-input--file .give-form-wrap .give-form .input:focus+.file__upload-btn #give-gateway-radio-list li input:checked+.give-gateway-option,.form-input--file .give-form-wrap .give-form .input:focus+.file__upload-btn .btn--primary,.form-input--file .give-form-wrap .give-form .input:focus+.file__upload-btn .gfield_fileupload input[type=file],.form-input--file .give-form-wrap .give-form .input:focus+.file__upload-btn .gform_wrapper .gform_footer input.button,.form-input--file .give-form-wrap .give-form .input:focus+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.form-input--file .give-form-wrap .give-form .input:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.form-input--file .give-form-wrap .give-form .input:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.form-input--file .give-form-wrap .give-form .input:focus+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.form-input--file .give-form-wrap .give-form .input:focus+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.form-input--file .give-form-wrap .give-form .input:focus+.file__upload-btn .give-submit,.form-input--file .give-form-wrap .give-form .input:focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.form-input--file .give-form-wrap .give-form .phone:focus+.file__upload-btn #give-gateway-radio-list li input:checked+.give-gateway-option,.form-input--file .give-form-wrap .give-form .phone:focus+.file__upload-btn .btn--primary,.form-input--file .give-form-wrap .give-form .phone:focus+.file__upload-btn .gfield_fileupload input[type=file],.form-input--file .give-form-wrap .give-form .phone:focus+.file__upload-btn .gform_wrapper .gform_footer input.button,.form-input--file .give-form-wrap .give-form .phone:focus+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.form-input--file .give-form-wrap .give-form .phone:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.form-input--file .give-form-wrap .give-form .phone:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.form-input--file .give-form-wrap .give-form .phone:focus+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.form-input--file .give-form-wrap .give-form .phone:focus+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.form-input--file .give-form-wrap .give-form .phone:focus+.file__upload-btn .give-submit,.form-input--file .give-form-wrap .give-form .phone:focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.form-input--file .give-form-wrap .give-form .textfield:focus+.file__upload-btn #give-gateway-radio-list li input:checked+.give-gateway-option,.form-input--file .give-form-wrap .give-form .textfield:focus+.file__upload-btn .btn--primary,.form-input--file .give-form-wrap .give-form .textfield:focus+.file__upload-btn .gfield_fileupload input[type=file],.form-input--file .give-form-wrap .give-form .textfield:focus+.file__upload-btn .gform_wrapper .gform_footer input.button,.form-input--file .give-form-wrap .give-form .textfield:focus+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.form-input--file .give-form-wrap .give-form .textfield:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.form-input--file .give-form-wrap .give-form .textfield:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.form-input--file .give-form-wrap .give-form .textfield:focus+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.form-input--file .give-form-wrap .give-form .textfield:focus+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.form-input--file .give-form-wrap .give-form .textfield:focus+.file__upload-btn .give-submit,.form-input--file .give-form-wrap .give-form .textfield:focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.form-input--file .give-form-wrap .give-form input:focus[type=tel]+.file__upload-btn #give-gateway-radio-list li input:checked+.give-gateway-option,.form-input--file .give-form-wrap .give-form input:focus[type=tel]+.file__upload-btn .btn--primary,.form-input--file .give-form-wrap .give-form input:focus[type=tel]+.file__upload-btn .gfield_fileupload input[type=file],.form-input--file .give-form-wrap .give-form input:focus[type=tel]+.file__upload-btn .gform_wrapper .gform_footer input.button,.form-input--file .give-form-wrap .give-form input:focus[type=tel]+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.form-input--file .give-form-wrap .give-form input:focus[type=tel]+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.form-input--file .give-form-wrap .give-form input:focus[type=tel]+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.form-input--file .give-form-wrap .give-form input:focus[type=tel]+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.form-input--file .give-form-wrap .give-form input:focus[type=tel]+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.form-input--file .give-form-wrap .give-form input:focus[type=tel]+.file__upload-btn .give-submit,.form-input--file .give-form-wrap .give-form input:focus[type=tel]+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.form-input--file .give-form-wrap .give-form input:focus[type=text]+.file__upload-btn #give-gateway-radio-list li input:checked+.give-gateway-option,.form-input--file .give-form-wrap .give-form input:focus[type=text]+.file__upload-btn .btn--primary,.form-input--file .give-form-wrap .give-form input:focus[type=text]+.file__upload-btn .gfield_fileupload input[type=file],.form-input--file .give-form-wrap .give-form input:focus[type=text]+.file__upload-btn .gform_wrapper .gform_footer input.button,.form-input--file .give-form-wrap .give-form input:focus[type=text]+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.form-input--file .give-form-wrap .give-form input:focus[type=text]+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.form-input--file .give-form-wrap .give-form input:focus[type=text]+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.form-input--file .give-form-wrap .give-form input:focus[type=text]+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.form-input--file .give-form-wrap .give-form input:focus[type=text]+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.form-input--file .give-form-wrap .give-form input:focus[type=text]+.file__upload-btn .give-submit,.form-input--file .give-form-wrap .give-form input:focus[type=text]+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.form-input--file .give-form-wrap .give-form select:focus+.file__upload-btn #give-gateway-radio-list li input:checked+.give-gateway-option,.form-input--file .give-form-wrap .give-form select:focus+.file__upload-btn .btn--primary,.form-input--file .give-form-wrap .give-form select:focus+.file__upload-btn .gfield_fileupload input[type=file],.form-input--file .give-form-wrap .give-form select:focus+.file__upload-btn .gform_wrapper .gform_footer input.button,.form-input--file .give-form-wrap .give-form select:focus+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.form-input--file .give-form-wrap .give-form select:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.form-input--file .give-form-wrap .give-form select:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.form-input--file .give-form-wrap .give-form select:focus+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.form-input--file .give-form-wrap .give-form select:focus+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.form-input--file .give-form-wrap .give-form select:focus+.file__upload-btn .give-submit,.form-input--file .give-form-wrap .give-form select:focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.form-input--file body .gform_wrapper .gform_footer input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn input.button,.form-input--file body .gform_wrapper .gform_footer input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn input[type=submit],.form-input--file body .gform_wrapper .gform_footer select:focus+.file__upload-btn input.button,.form-input--file body .gform_wrapper .gform_footer select:focus+.file__upload-btn input[type=submit],.form-input--file body .gform_wrapper .gform_footer textarea:focus+.file__upload-btn input.button,.form-input--file body .gform_wrapper .gform_footer textarea:focus+.file__upload-btn input[type=submit],.form-input--file body .gform_wrapper .gform_page_footer input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .button.gform_button,.form-input--file body .gform_wrapper .gform_page_footer input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .button.gform_next_button,.form-input--file body .gform_wrapper .gform_page_footer input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn input.button,.form-input--file body .gform_wrapper .gform_page_footer input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn input[type=submit],.form-input--file body .gform_wrapper .gform_page_footer select:focus+.file__upload-btn .button.gform_button,.form-input--file body .gform_wrapper .gform_page_footer select:focus+.file__upload-btn .button.gform_next_button,.form-input--file body .gform_wrapper .gform_page_footer select:focus+.file__upload-btn input.button,.form-input--file body .gform_wrapper .gform_page_footer select:focus+.file__upload-btn input[type=submit],.form-input--file body .gform_wrapper .gform_page_footer textarea:focus+.file__upload-btn .button.gform_button,.form-input--file body .gform_wrapper .gform_page_footer textarea:focus+.file__upload-btn .button.gform_next_button,.form-input--file body .gform_wrapper .gform_page_footer textarea:focus+.file__upload-btn input.button,.form-input--file body .gform_wrapper .gform_page_footer textarea:focus+.file__upload-btn input[type=submit],.form-input--file body .gform_wrapper input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .btn--primary,.form-input--file body .gform_wrapper input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .gfield_fileupload input[type=file],.form-input--file body .gform_wrapper input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .gform_footer input.button,.form-input--file body .gform_wrapper input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .gform_footer input[type=submit],.form-input--file body .gform_wrapper input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .gform_page_footer .button.gform_button,.form-input--file body .gform_wrapper input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .gform_page_footer .button.gform_next_button,.form-input--file body .gform_wrapper input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .gform_page_footer input.button,.form-input--file body .gform_wrapper input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .gform_page_footer input[type=submit],.form-input--file body .gform_wrapper input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option,.form-input--file body .gform_wrapper input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .give-form-wrap .give-form .give-submit,.form-input--file body .gform_wrapper input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.form-input--file body .gform_wrapper select:focus+.file__upload-btn .btn--primary,.form-input--file body .gform_wrapper select:focus+.file__upload-btn .gfield_fileupload input[type=file],.form-input--file body .gform_wrapper select:focus+.file__upload-btn .gform_footer input.button,.form-input--file body .gform_wrapper select:focus+.file__upload-btn .gform_footer input[type=submit],.form-input--file body .gform_wrapper select:focus+.file__upload-btn .gform_page_footer .button.gform_button,.form-input--file body .gform_wrapper select:focus+.file__upload-btn .gform_page_footer .button.gform_next_button,.form-input--file body .gform_wrapper select:focus+.file__upload-btn .gform_page_footer input.button,.form-input--file body .gform_wrapper select:focus+.file__upload-btn .gform_page_footer input[type=submit],.form-input--file body .gform_wrapper select:focus+.file__upload-btn .give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option,.form-input--file body .gform_wrapper select:focus+.file__upload-btn .give-form-wrap .give-form .give-submit,.form-input--file body .gform_wrapper select:focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.form-input--file body .gform_wrapper textarea:focus+.file__upload-btn .btn--primary,.form-input--file body .gform_wrapper textarea:focus+.file__upload-btn .gfield_fileupload input[type=file],.form-input--file body .gform_wrapper textarea:focus+.file__upload-btn .gform_footer input.button,.form-input--file body .gform_wrapper textarea:focus+.file__upload-btn .gform_footer input[type=submit],.form-input--file body .gform_wrapper textarea:focus+.file__upload-btn .gform_page_footer .button.gform_button,.form-input--file body .gform_wrapper textarea:focus+.file__upload-btn .gform_page_footer .button.gform_next_button,.form-input--file body .gform_wrapper textarea:focus+.file__upload-btn .gform_page_footer input.button,.form-input--file body .gform_wrapper textarea:focus+.file__upload-btn .gform_page_footer input[type=submit],.form-input--file body .gform_wrapper textarea:focus+.file__upload-btn .give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option,.form-input--file body .gform_wrapper textarea:focus+.file__upload-btn .give-form-wrap .give-form .give-submit,.form-input--file body .gform_wrapper textarea:focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.gfield_fileupload .form-input--file .form-control:focus+.file__upload-btn input[type=file],.gfield_fileupload .form-input--file .give-form-wrap .give-form .give-input:focus+.file__upload-btn input[type=file],.gfield_fileupload .form-input--file .give-form-wrap .give-form .give-select:focus+.file__upload-btn input[type=file],.gfield_fileupload .form-input--file .give-form-wrap .give-form .give-stripe-cc-field.focus+.file__upload-btn input[type=file],.gfield_fileupload .form-input--file .give-form-wrap .give-form .give-stripe-cc-field:focus+.file__upload-btn input[type=file],.gfield_fileupload .form-input--file .give-form-wrap .give-form .give-text-input:focus+.file__upload-btn input[type=file],.gfield_fileupload .form-input--file .give-form-wrap .give-form .input:focus+.file__upload-btn input[type=file],.gfield_fileupload .form-input--file .give-form-wrap .give-form .phone:focus+.file__upload-btn input[type=file],.gfield_fileupload .form-input--file .give-form-wrap .give-form .textfield:focus+.file__upload-btn input[type=file],.gfield_fileupload .form-input--file .give-form-wrap .give-form input:focus[type=tel]+.file__upload-btn input[type=file],.gfield_fileupload .form-input--file .give-form-wrap .give-form input:focus[type=text]+.file__upload-btn input[type=file],.gfield_fileupload .form-input--file .give-form-wrap .give-form select:focus+.file__upload-btn input[type=file],.gfield_fileupload .form-input--file body .gform_wrapper input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn input[type=file],.gfield_fileupload .form-input--file body .gform_wrapper select:focus+.file__upload-btn input[type=file],.gfield_fileupload .form-input--file body .gform_wrapper textarea:focus+.file__upload-btn input[type=file],.gfield_fileupload .give-form-wrap .give-form .form-input--file .give-input:focus+.file__upload-btn input[type=file],.gfield_fileupload .give-form-wrap .give-form .form-input--file .give-select:focus+.file__upload-btn input[type=file],.gfield_fileupload .give-form-wrap .give-form .form-input--file .give-stripe-cc-field.focus+.file__upload-btn input[type=file],.gfield_fileupload .give-form-wrap .give-form .form-input--file .give-stripe-cc-field:focus+.file__upload-btn input[type=file],.gfield_fileupload .give-form-wrap .give-form .form-input--file .give-text-input:focus+.file__upload-btn input[type=file],.gfield_fileupload .give-form-wrap .give-form .form-input--file .input:focus+.file__upload-btn input[type=file],.gfield_fileupload .give-form-wrap .give-form .form-input--file .phone:focus+.file__upload-btn input[type=file],.gfield_fileupload .give-form-wrap .give-form .form-input--file .textfield:focus+.file__upload-btn input[type=file],.gfield_fileupload .give-form-wrap .give-form .form-input--file input:focus[type=tel]+.file__upload-btn input[type=file],.gfield_fileupload .give-form-wrap .give-form .form-input--file input:focus[type=text]+.file__upload-btn input[type=file],.gfield_fileupload .give-form-wrap .give-form .form-input--file select:focus+.file__upload-btn input[type=file],.gfield_fileupload body .gform_wrapper .form-input--file input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn input[type=file],.gfield_fileupload body .gform_wrapper .form-input--file select:focus+.file__upload-btn input[type=file],.gfield_fileupload body .gform_wrapper .form-input--file textarea:focus+.file__upload-btn input[type=file],.gform_wrapper .gform_footer .form-input--file .form-control:focus+.file__upload-btn input.button,.gform_wrapper .gform_footer .form-input--file .form-control:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_footer .form-input--file .give-form-wrap .give-form .give-input:focus+.file__upload-btn input.button,.gform_wrapper .gform_footer .form-input--file .give-form-wrap .give-form .give-input:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_footer .form-input--file .give-form-wrap .give-form .give-select:focus+.file__upload-btn input.button,.gform_wrapper .gform_footer .form-input--file .give-form-wrap .give-form .give-select:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_footer .form-input--file .give-form-wrap .give-form .give-stripe-cc-field.focus+.file__upload-btn input.button,.gform_wrapper .gform_footer .form-input--file .give-form-wrap .give-form .give-stripe-cc-field.focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_footer .form-input--file .give-form-wrap .give-form .give-stripe-cc-field:focus+.file__upload-btn input.button,.gform_wrapper .gform_footer .form-input--file .give-form-wrap .give-form .give-stripe-cc-field:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_footer .form-input--file .give-form-wrap .give-form .give-text-input:focus+.file__upload-btn input.button,.gform_wrapper .gform_footer .form-input--file .give-form-wrap .give-form .give-text-input:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_footer .form-input--file .give-form-wrap .give-form .input:focus+.file__upload-btn input.button,.gform_wrapper .gform_footer .form-input--file .give-form-wrap .give-form .input:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_footer .form-input--file .give-form-wrap .give-form .phone:focus+.file__upload-btn input.button,.gform_wrapper .gform_footer .form-input--file .give-form-wrap .give-form .phone:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_footer .form-input--file .give-form-wrap .give-form .textfield:focus+.file__upload-btn input.button,.gform_wrapper .gform_footer .form-input--file .give-form-wrap .give-form .textfield:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_footer .form-input--file .give-form-wrap .give-form input:focus[type=tel]+.file__upload-btn input.button,.gform_wrapper .gform_footer .form-input--file .give-form-wrap .give-form input:focus[type=tel]+.file__upload-btn input[type=submit],.gform_wrapper .gform_footer .form-input--file .give-form-wrap .give-form input:focus[type=text]+.file__upload-btn input.button,.gform_wrapper .gform_footer .form-input--file .give-form-wrap .give-form input:focus[type=text]+.file__upload-btn input[type=submit],.gform_wrapper .gform_footer .form-input--file .give-form-wrap .give-form select:focus+.file__upload-btn input.button,.gform_wrapper .gform_footer .form-input--file .give-form-wrap .give-form select:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_footer .give-form-wrap .give-form .form-input--file .give-input:focus+.file__upload-btn input.button,.gform_wrapper .gform_footer .give-form-wrap .give-form .form-input--file .give-input:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_footer .give-form-wrap .give-form .form-input--file .give-select:focus+.file__upload-btn input.button,.gform_wrapper .gform_footer .give-form-wrap .give-form .form-input--file .give-select:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_footer .give-form-wrap .give-form .form-input--file .give-stripe-cc-field.focus+.file__upload-btn input.button,.gform_wrapper .gform_footer .give-form-wrap .give-form .form-input--file .give-stripe-cc-field.focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_footer .give-form-wrap .give-form .form-input--file .give-stripe-cc-field:focus+.file__upload-btn input.button,.gform_wrapper .gform_footer .give-form-wrap .give-form .form-input--file .give-stripe-cc-field:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_footer .give-form-wrap .give-form .form-input--file .give-text-input:focus+.file__upload-btn input.button,.gform_wrapper .gform_footer .give-form-wrap .give-form .form-input--file .give-text-input:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_footer .give-form-wrap .give-form .form-input--file .input:focus+.file__upload-btn input.button,.gform_wrapper .gform_footer .give-form-wrap .give-form .form-input--file .input:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_footer .give-form-wrap .give-form .form-input--file .phone:focus+.file__upload-btn input.button,.gform_wrapper .gform_footer .give-form-wrap .give-form .form-input--file .phone:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_footer .give-form-wrap .give-form .form-input--file .textfield:focus+.file__upload-btn input.button,.gform_wrapper .gform_footer .give-form-wrap .give-form .form-input--file .textfield:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_footer .give-form-wrap .give-form .form-input--file input:focus[type=tel]+.file__upload-btn input.button,.gform_wrapper .gform_footer .give-form-wrap .give-form .form-input--file input:focus[type=tel]+.file__upload-btn input[type=submit],.gform_wrapper .gform_footer .give-form-wrap .give-form .form-input--file input:focus[type=text]+.file__upload-btn input.button,.gform_wrapper .gform_footer .give-form-wrap .give-form .form-input--file input:focus[type=text]+.file__upload-btn input[type=submit],.gform_wrapper .gform_footer .give-form-wrap .give-form .form-input--file select:focus+.file__upload-btn input.button,.gform_wrapper .gform_footer .give-form-wrap .give-form .form-input--file select:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .form-input--file .form-control:focus+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .form-input--file .form-control:focus+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .form-input--file .form-control:focus+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .form-input--file .form-control:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .give-input:focus+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .give-input:focus+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .give-input:focus+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .give-input:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .give-select:focus+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .give-select:focus+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .give-select:focus+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .give-select:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .give-stripe-cc-field.focus+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .give-stripe-cc-field.focus+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .give-stripe-cc-field.focus+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .give-stripe-cc-field.focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .give-stripe-cc-field:focus+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .give-stripe-cc-field:focus+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .give-stripe-cc-field:focus+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .give-stripe-cc-field:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .give-text-input:focus+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .give-text-input:focus+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .give-text-input:focus+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .give-text-input:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .input:focus+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .input:focus+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .input:focus+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .input:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .phone:focus+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .phone:focus+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .phone:focus+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .phone:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .textfield:focus+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .textfield:focus+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .textfield:focus+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form .textfield:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form input:focus[type=tel]+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form input:focus[type=tel]+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form input:focus[type=tel]+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form input:focus[type=tel]+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form input:focus[type=text]+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form input:focus[type=text]+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form input:focus[type=text]+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form input:focus[type=text]+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form select:focus+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form select:focus+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form select:focus+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .form-input--file .give-form-wrap .give-form select:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .give-input:focus+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .give-input:focus+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .give-input:focus+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .give-input:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .give-select:focus+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .give-select:focus+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .give-select:focus+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .give-select:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .give-stripe-cc-field.focus+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .give-stripe-cc-field.focus+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .give-stripe-cc-field.focus+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .give-stripe-cc-field.focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .give-stripe-cc-field:focus+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .give-stripe-cc-field:focus+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .give-stripe-cc-field:focus+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .give-stripe-cc-field:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .give-text-input:focus+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .give-text-input:focus+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .give-text-input:focus+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .give-text-input:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .input:focus+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .input:focus+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .input:focus+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .input:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .phone:focus+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .phone:focus+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .phone:focus+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .phone:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .textfield:focus+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .textfield:focus+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .textfield:focus+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file .textfield:focus+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file input:focus[type=tel]+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file input:focus[type=tel]+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file input:focus[type=tel]+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file input:focus[type=tel]+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file input:focus[type=text]+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file input:focus[type=text]+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file input:focus[type=text]+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file input:focus[type=text]+.file__upload-btn input[type=submit],.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file select:focus+.file__upload-btn .button.gform_button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file select:focus+.file__upload-btn .button.gform_next_button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file select:focus+.file__upload-btn input.button,.gform_wrapper .gform_page_footer .give-form-wrap .give-form .form-input--file select:focus+.file__upload-btn input[type=submit],.give-form-wrap #give-gateway-radio-list li .form-input--file .form-control:focus+.file__upload-btn input:checked+.give-gateway-option,.give-form-wrap #give-gateway-radio-list li .form-input--file body .gform_wrapper input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn input:checked+.give-gateway-option,.give-form-wrap #give-gateway-radio-list li .form-input--file body .gform_wrapper select:focus+.file__upload-btn input:checked+.give-gateway-option,.give-form-wrap #give-gateway-radio-list li .form-input--file body .gform_wrapper textarea:focus+.file__upload-btn input:checked+.give-gateway-option,.give-form-wrap #give-gateway-radio-list li .give-form .form-input--file .give-input:focus+.file__upload-btn input:checked+.give-gateway-option,.give-form-wrap #give-gateway-radio-list li .give-form .form-input--file .give-select:focus+.file__upload-btn input:checked+.give-gateway-option,.give-form-wrap #give-gateway-radio-list li .give-form .form-input--file .give-stripe-cc-field.focus+.file__upload-btn input:checked+.give-gateway-option,.give-form-wrap #give-gateway-radio-list li .give-form .form-input--file .give-stripe-cc-field:focus+.file__upload-btn input:checked+.give-gateway-option,.give-form-wrap #give-gateway-radio-list li .give-form .form-input--file .give-text-input:focus+.file__upload-btn input:checked+.give-gateway-option,.give-form-wrap #give-gateway-radio-list li .give-form .form-input--file .input:focus+.file__upload-btn input:checked+.give-gateway-option,.give-form-wrap #give-gateway-radio-list li .give-form .form-input--file .phone:focus+.file__upload-btn input:checked+.give-gateway-option,.give-form-wrap #give-gateway-radio-list li .give-form .form-input--file .textfield:focus+.file__upload-btn input:checked+.give-gateway-option,.give-form-wrap #give-gateway-radio-list li .give-form .form-input--file input:focus[type=tel]+.file__upload-btn input:checked+.give-gateway-option,.give-form-wrap #give-gateway-radio-list li .give-form .form-input--file input:focus[type=text]+.file__upload-btn input:checked+.give-gateway-option,.give-form-wrap #give-gateway-radio-list li .give-form .form-input--file select:focus+.file__upload-btn input:checked+.give-gateway-option,.give-form-wrap #give-gateway-radio-list li body .gform_wrapper .form-input--file input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn input:checked+.give-gateway-option,.give-form-wrap #give-gateway-radio-list li body .gform_wrapper .form-input--file select:focus+.file__upload-btn input:checked+.give-gateway-option,.give-form-wrap #give-gateway-radio-list li body .gform_wrapper .form-input--file textarea:focus+.file__upload-btn input:checked+.give-gateway-option,.give-form-wrap .give-form .form-input--file .form-control:focus+.file__upload-btn .give-submit,.give-form-wrap .give-form .form-input--file .give-input:focus+.file__upload-btn #give-gateway-radio-list li input:checked+.give-gateway-option,.give-form-wrap .give-form .form-input--file .give-input:focus+.file__upload-btn .btn--primary,.give-form-wrap .give-form .form-input--file .give-input:focus+.file__upload-btn .gfield_fileupload input[type=file],.give-form-wrap .give-form .form-input--file .give-input:focus+.file__upload-btn .gform_wrapper .gform_footer input.button,.give-form-wrap .give-form .form-input--file .give-input:focus+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.give-form-wrap .give-form .form-input--file .give-input:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.give-form-wrap .give-form .form-input--file .give-input:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.give-form-wrap .give-form .form-input--file .give-input:focus+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.give-form-wrap .give-form .form-input--file .give-input:focus+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.give-form-wrap .give-form .form-input--file .give-input:focus+.file__upload-btn .give-submit,.give-form-wrap .give-form .form-input--file .give-input:focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.give-form-wrap .give-form .form-input--file .give-select:focus+.file__upload-btn #give-gateway-radio-list li input:checked+.give-gateway-option,.give-form-wrap .give-form .form-input--file .give-select:focus+.file__upload-btn .btn--primary,.give-form-wrap .give-form .form-input--file .give-select:focus+.file__upload-btn .gfield_fileupload input[type=file],.give-form-wrap .give-form .form-input--file .give-select:focus+.file__upload-btn .gform_wrapper .gform_footer input.button,.give-form-wrap .give-form .form-input--file .give-select:focus+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.give-form-wrap .give-form .form-input--file .give-select:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.give-form-wrap .give-form .form-input--file .give-select:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.give-form-wrap .give-form .form-input--file .give-select:focus+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.give-form-wrap .give-form .form-input--file .give-select:focus+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.give-form-wrap .give-form .form-input--file .give-select:focus+.file__upload-btn .give-submit,.give-form-wrap .give-form .form-input--file .give-select:focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.give-form-wrap .give-form .form-input--file .give-stripe-cc-field.focus+.file__upload-btn #give-gateway-radio-list li input:checked+.give-gateway-option,.give-form-wrap .give-form .form-input--file .give-stripe-cc-field.focus+.file__upload-btn .btn--primary,.give-form-wrap .give-form .form-input--file .give-stripe-cc-field.focus+.file__upload-btn .gfield_fileupload input[type=file],.give-form-wrap .give-form .form-input--file .give-stripe-cc-field.focus+.file__upload-btn .gform_wrapper .gform_footer input.button,.give-form-wrap .give-form .form-input--file .give-stripe-cc-field.focus+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.give-form-wrap .give-form .form-input--file .give-stripe-cc-field.focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.give-form-wrap .give-form .form-input--file .give-stripe-cc-field.focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.give-form-wrap .give-form .form-input--file .give-stripe-cc-field.focus+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.give-form-wrap .give-form .form-input--file .give-stripe-cc-field.focus+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.give-form-wrap .give-form .form-input--file .give-stripe-cc-field.focus+.file__upload-btn .give-submit,.give-form-wrap .give-form .form-input--file .give-stripe-cc-field.focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.give-form-wrap .give-form .form-input--file .give-stripe-cc-field:focus+.file__upload-btn #give-gateway-radio-list li input:checked+.give-gateway-option,.give-form-wrap .give-form .form-input--file .give-stripe-cc-field:focus+.file__upload-btn .btn--primary,.give-form-wrap .give-form .form-input--file .give-stripe-cc-field:focus+.file__upload-btn .gfield_fileupload input[type=file],.give-form-wrap .give-form .form-input--file .give-stripe-cc-field:focus+.file__upload-btn .gform_wrapper .gform_footer input.button,.give-form-wrap .give-form .form-input--file .give-stripe-cc-field:focus+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.give-form-wrap .give-form .form-input--file .give-stripe-cc-field:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.give-form-wrap .give-form .form-input--file .give-stripe-cc-field:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.give-form-wrap .give-form .form-input--file .give-stripe-cc-field:focus+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.give-form-wrap .give-form .form-input--file .give-stripe-cc-field:focus+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.give-form-wrap .give-form .form-input--file .give-stripe-cc-field:focus+.file__upload-btn .give-submit,.give-form-wrap .give-form .form-input--file .give-stripe-cc-field:focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.give-form-wrap .give-form .form-input--file .give-text-input:focus+.file__upload-btn #give-gateway-radio-list li input:checked+.give-gateway-option,.give-form-wrap .give-form .form-input--file .give-text-input:focus+.file__upload-btn .btn--primary,.give-form-wrap .give-form .form-input--file .give-text-input:focus+.file__upload-btn .gfield_fileupload input[type=file],.give-form-wrap .give-form .form-input--file .give-text-input:focus+.file__upload-btn .gform_wrapper .gform_footer input.button,.give-form-wrap .give-form .form-input--file .give-text-input:focus+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.give-form-wrap .give-form .form-input--file .give-text-input:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.give-form-wrap .give-form .form-input--file .give-text-input:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.give-form-wrap .give-form .form-input--file .give-text-input:focus+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.give-form-wrap .give-form .form-input--file .give-text-input:focus+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.give-form-wrap .give-form .form-input--file .give-text-input:focus+.file__upload-btn .give-submit,.give-form-wrap .give-form .form-input--file .give-text-input:focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.give-form-wrap .give-form .form-input--file .input:focus+.file__upload-btn #give-gateway-radio-list li input:checked+.give-gateway-option,.give-form-wrap .give-form .form-input--file .input:focus+.file__upload-btn .btn--primary,.give-form-wrap .give-form .form-input--file .input:focus+.file__upload-btn .gfield_fileupload input[type=file],.give-form-wrap .give-form .form-input--file .input:focus+.file__upload-btn .gform_wrapper .gform_footer input.button,.give-form-wrap .give-form .form-input--file .input:focus+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.give-form-wrap .give-form .form-input--file .input:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.give-form-wrap .give-form .form-input--file .input:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.give-form-wrap .give-form .form-input--file .input:focus+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.give-form-wrap .give-form .form-input--file .input:focus+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.give-form-wrap .give-form .form-input--file .input:focus+.file__upload-btn .give-submit,.give-form-wrap .give-form .form-input--file .input:focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.give-form-wrap .give-form .form-input--file .phone:focus+.file__upload-btn #give-gateway-radio-list li input:checked+.give-gateway-option,.give-form-wrap .give-form .form-input--file .phone:focus+.file__upload-btn .btn--primary,.give-form-wrap .give-form .form-input--file .phone:focus+.file__upload-btn .gfield_fileupload input[type=file],.give-form-wrap .give-form .form-input--file .phone:focus+.file__upload-btn .gform_wrapper .gform_footer input.button,.give-form-wrap .give-form .form-input--file .phone:focus+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.give-form-wrap .give-form .form-input--file .phone:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.give-form-wrap .give-form .form-input--file .phone:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.give-form-wrap .give-form .form-input--file .phone:focus+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.give-form-wrap .give-form .form-input--file .phone:focus+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.give-form-wrap .give-form .form-input--file .phone:focus+.file__upload-btn .give-submit,.give-form-wrap .give-form .form-input--file .phone:focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.give-form-wrap .give-form .form-input--file .textfield:focus+.file__upload-btn #give-gateway-radio-list li input:checked+.give-gateway-option,.give-form-wrap .give-form .form-input--file .textfield:focus+.file__upload-btn .btn--primary,.give-form-wrap .give-form .form-input--file .textfield:focus+.file__upload-btn .gfield_fileupload input[type=file],.give-form-wrap .give-form .form-input--file .textfield:focus+.file__upload-btn .gform_wrapper .gform_footer input.button,.give-form-wrap .give-form .form-input--file .textfield:focus+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.give-form-wrap .give-form .form-input--file .textfield:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.give-form-wrap .give-form .form-input--file .textfield:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.give-form-wrap .give-form .form-input--file .textfield:focus+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.give-form-wrap .give-form .form-input--file .textfield:focus+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.give-form-wrap .give-form .form-input--file .textfield:focus+.file__upload-btn .give-submit,.give-form-wrap .give-form .form-input--file .textfield:focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.give-form-wrap .give-form .form-input--file body .gform_wrapper input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .give-submit,.give-form-wrap .give-form .form-input--file body .gform_wrapper select:focus+.file__upload-btn .give-submit,.give-form-wrap .give-form .form-input--file body .gform_wrapper textarea:focus+.file__upload-btn .give-submit,.give-form-wrap .give-form .form-input--file input:focus[type=tel]+.file__upload-btn #give-gateway-radio-list li input:checked+.give-gateway-option,.give-form-wrap .give-form .form-input--file input:focus[type=tel]+.file__upload-btn .btn--primary,.give-form-wrap .give-form .form-input--file input:focus[type=tel]+.file__upload-btn .gfield_fileupload input[type=file],.give-form-wrap .give-form .form-input--file input:focus[type=tel]+.file__upload-btn .gform_wrapper .gform_footer input.button,.give-form-wrap .give-form .form-input--file input:focus[type=tel]+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.give-form-wrap .give-form .form-input--file input:focus[type=tel]+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.give-form-wrap .give-form .form-input--file input:focus[type=tel]+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.give-form-wrap .give-form .form-input--file input:focus[type=tel]+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.give-form-wrap .give-form .form-input--file input:focus[type=tel]+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.give-form-wrap .give-form .form-input--file input:focus[type=tel]+.file__upload-btn .give-submit,.give-form-wrap .give-form .form-input--file input:focus[type=tel]+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.give-form-wrap .give-form .form-input--file input:focus[type=text]+.file__upload-btn #give-gateway-radio-list li input:checked+.give-gateway-option,.give-form-wrap .give-form .form-input--file input:focus[type=text]+.file__upload-btn .btn--primary,.give-form-wrap .give-form .form-input--file input:focus[type=text]+.file__upload-btn .gfield_fileupload input[type=file],.give-form-wrap .give-form .form-input--file input:focus[type=text]+.file__upload-btn .gform_wrapper .gform_footer input.button,.give-form-wrap .give-form .form-input--file input:focus[type=text]+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.give-form-wrap .give-form .form-input--file input:focus[type=text]+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.give-form-wrap .give-form .form-input--file input:focus[type=text]+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.give-form-wrap .give-form .form-input--file input:focus[type=text]+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.give-form-wrap .give-form .form-input--file input:focus[type=text]+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.give-form-wrap .give-form .form-input--file input:focus[type=text]+.file__upload-btn .give-submit,.give-form-wrap .give-form .form-input--file input:focus[type=text]+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.give-form-wrap .give-form .form-input--file select:focus+.file__upload-btn #give-gateway-radio-list li input:checked+.give-gateway-option,.give-form-wrap .give-form .form-input--file select:focus+.file__upload-btn .btn--primary,.give-form-wrap .give-form .form-input--file select:focus+.file__upload-btn .gfield_fileupload input[type=file],.give-form-wrap .give-form .form-input--file select:focus+.file__upload-btn .gform_wrapper .gform_footer input.button,.give-form-wrap .give-form .form-input--file select:focus+.file__upload-btn .gform_wrapper .gform_footer input[type=submit],.give-form-wrap .give-form .form-input--file select:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_button,.give-form-wrap .give-form .form-input--file select:focus+.file__upload-btn .gform_wrapper .gform_page_footer .button.gform_next_button,.give-form-wrap .give-form .form-input--file select:focus+.file__upload-btn .gform_wrapper .gform_page_footer input.button,.give-form-wrap .give-form .form-input--file select:focus+.file__upload-btn .gform_wrapper .gform_page_footer input[type=submit],.give-form-wrap .give-form .form-input--file select:focus+.file__upload-btn .give-submit,.give-form-wrap .give-form .form-input--file select:focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,.give-form-wrap .give-form body .gform_wrapper .form-input--file input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .give-submit,.give-form-wrap .give-form body .gform_wrapper .form-input--file select:focus+.file__upload-btn .give-submit,.give-form-wrap .give-form body .gform_wrapper .form-input--file textarea:focus+.file__upload-btn .give-submit,.section--featured-article .card--article-full .form-input--file .form-control:focus+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .form-input--file .give-form-wrap .give-form .give-input:focus+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .form-input--file .give-form-wrap .give-form .give-select:focus+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .form-input--file .give-form-wrap .give-form .give-stripe-cc-field.focus+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .form-input--file .give-form-wrap .give-form .give-stripe-cc-field:focus+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .form-input--file .give-form-wrap .give-form .give-text-input:focus+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .form-input--file .give-form-wrap .give-form .input:focus+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .form-input--file .give-form-wrap .give-form .phone:focus+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .form-input--file .give-form-wrap .give-form .textfield:focus+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .form-input--file .give-form-wrap .give-form input:focus[type=tel]+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .form-input--file .give-form-wrap .give-form input:focus[type=text]+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .form-input--file .give-form-wrap .give-form select:focus+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .form-input--file body .gform_wrapper input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .form-input--file body .gform_wrapper select:focus+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .form-input--file body .gform_wrapper textarea:focus+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .give-form-wrap .give-form .form-input--file .give-input:focus+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .give-form-wrap .give-form .form-input--file .give-select:focus+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .give-form-wrap .give-form .form-input--file .give-stripe-cc-field.focus+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .give-form-wrap .give-form .form-input--file .give-stripe-cc-field:focus+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .give-form-wrap .give-form .form-input--file .give-text-input:focus+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .give-form-wrap .give-form .form-input--file .input:focus+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .give-form-wrap .give-form .form-input--file .phone:focus+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .give-form-wrap .give-form .form-input--file .textfield:focus+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .give-form-wrap .give-form .form-input--file input:focus[type=tel]+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .give-form-wrap .give-form .form-input--file input:focus[type=text]+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full .give-form-wrap .give-form .form-input--file select:focus+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full body .gform_wrapper .form-input--file input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full body .gform_wrapper .form-input--file select:focus+.file__upload-btn .btn--read-more,.section--featured-article .card--article-full body .gform_wrapper .form-input--file textarea:focus+.file__upload-btn .btn--read-more,body .gform_wrapper .form-input--file input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .btn--primary,body .gform_wrapper .form-input--file input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .gfield_fileupload input[type=file],body .gform_wrapper .form-input--file input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .gform_footer input.button,body .gform_wrapper .form-input--file input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .gform_footer input[type=submit],body .gform_wrapper .form-input--file input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .gform_page_footer .button.gform_button,body .gform_wrapper .form-input--file input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .gform_page_footer .button.gform_next_button,body .gform_wrapper .form-input--file input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .gform_page_footer input.button,body .gform_wrapper .form-input--file input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .gform_page_footer input[type=submit],body .gform_wrapper .form-input--file input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option,body .gform_wrapper .form-input--file input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .give-form-wrap .give-form .give-submit,body .gform_wrapper .form-input--file input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,body .gform_wrapper .form-input--file select:focus+.file__upload-btn .btn--primary,body .gform_wrapper .form-input--file select:focus+.file__upload-btn .gfield_fileupload input[type=file],body .gform_wrapper .form-input--file select:focus+.file__upload-btn .gform_footer input.button,body .gform_wrapper .form-input--file select:focus+.file__upload-btn .gform_footer input[type=submit],body .gform_wrapper .form-input--file select:focus+.file__upload-btn .gform_page_footer .button.gform_button,body .gform_wrapper .form-input--file select:focus+.file__upload-btn .gform_page_footer .button.gform_next_button,body .gform_wrapper .form-input--file select:focus+.file__upload-btn .gform_page_footer input.button,body .gform_wrapper .form-input--file select:focus+.file__upload-btn .gform_page_footer input[type=submit],body .gform_wrapper .form-input--file select:focus+.file__upload-btn .give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option,body .gform_wrapper .form-input--file select:focus+.file__upload-btn .give-form-wrap .give-form .give-submit,body .gform_wrapper .form-input--file select:focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,body .gform_wrapper .form-input--file textarea:focus+.file__upload-btn .btn--primary,body .gform_wrapper .form-input--file textarea:focus+.file__upload-btn .gfield_fileupload input[type=file],body .gform_wrapper .form-input--file textarea:focus+.file__upload-btn .gform_footer input.button,body .gform_wrapper .form-input--file textarea:focus+.file__upload-btn .gform_footer input[type=submit],body .gform_wrapper .form-input--file textarea:focus+.file__upload-btn .gform_page_footer .button.gform_button,body .gform_wrapper .form-input--file textarea:focus+.file__upload-btn .gform_page_footer .button.gform_next_button,body .gform_wrapper .form-input--file textarea:focus+.file__upload-btn .gform_page_footer input.button,body .gform_wrapper .form-input--file textarea:focus+.file__upload-btn .gform_page_footer input[type=submit],body .gform_wrapper .form-input--file textarea:focus+.file__upload-btn .give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option,body .gform_wrapper .form-input--file textarea:focus+.file__upload-btn .give-form-wrap .give-form .give-submit,body .gform_wrapper .form-input--file textarea:focus+.file__upload-btn .section--featured-article .card--article-full .btn--read-more,body .gform_wrapper .gform_footer .form-input--file input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn input.button,body .gform_wrapper .gform_footer .form-input--file input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn input[type=submit],body .gform_wrapper .gform_footer .form-input--file select:focus+.file__upload-btn input.button,body .gform_wrapper .gform_footer .form-input--file select:focus+.file__upload-btn input[type=submit],body .gform_wrapper .gform_footer .form-input--file textarea:focus+.file__upload-btn input.button,body .gform_wrapper .gform_footer .form-input--file textarea:focus+.file__upload-btn input[type=submit],body .gform_wrapper .gform_page_footer .form-input--file input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .button.gform_button,body .gform_wrapper .gform_page_footer .form-input--file input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn .button.gform_next_button,body .gform_wrapper .gform_page_footer .form-input--file input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn input.button,body .gform_wrapper .gform_page_footer .form-input--file input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file])+.file__upload-btn input[type=submit],body .gform_wrapper .gform_page_footer .form-input--file select:focus+.file__upload-btn .button.gform_button,body .gform_wrapper .gform_page_footer .form-input--file select:focus+.file__upload-btn .button.gform_next_button,body .gform_wrapper .gform_page_footer .form-input--file select:focus+.file__upload-btn input.button,body .gform_wrapper .gform_page_footer .form-input--file select:focus+.file__upload-btn input[type=submit],body .gform_wrapper .gform_page_footer .form-input--file textarea:focus+.file__upload-btn .button.gform_button,body .gform_wrapper .gform_page_footer .form-input--file textarea:focus+.file__upload-btn .button.gform_next_button,body .gform_wrapper .gform_page_footer .form-input--file textarea:focus+.file__upload-btn input.button,body .gform_wrapper .gform_page_footer .form-input--file textarea:focus+.file__upload-btn input[type=submit] {
-    background: #064d32;
-    border-color: #064d32
+    background: #1F2437;
+    border-color: #1F2437
 }
 
 .form-input--file:focus .btn--primary,.form-input--file:focus .gfield_fileupload input[type=file],.form-input--file:focus .gform_wrapper .gform_footer input.button,.form-input--file:focus .gform_wrapper .gform_footer input[type=submit],.form-input--file:focus .gform_wrapper .gform_page_footer .button.gform_button,.form-input--file:focus .gform_wrapper .gform_page_footer .button.gform_next_button,.form-input--file:focus .gform_wrapper .gform_page_footer input.button,.form-input--file:focus .gform_wrapper .gform_page_footer input[type=submit],.form-input--file:focus .give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option,.form-input--file:focus .give-form-wrap .give-form .give-submit,.form-input--file:focus .section--featured-article .card--article-full .btn--read-more,.form-input--file:hover .btn--primary,.form-input--file:hover .gfield_fileupload input[type=file],.form-input--file:hover .gform_wrapper .gform_footer input.button,.form-input--file:hover .gform_wrapper .gform_footer input[type=submit],.form-input--file:hover .gform_wrapper .gform_page_footer .button.gform_button,.form-input--file:hover .gform_wrapper .gform_page_footer .button.gform_next_button,.form-input--file:hover .gform_wrapper .gform_page_footer input.button,.form-input--file:hover .gform_wrapper .gform_page_footer input[type=submit],.form-input--file:hover .give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option,.form-input--file:hover .give-form-wrap .give-form .give-submit,.form-input--file:hover .section--featured-article .card--article-full .btn--read-more,.gfield_fileupload .form-input--file:focus input[type=file],.gfield_fileupload .form-input--file:hover input[type=file],.gform_wrapper .gform_footer .form-input--file:focus input.button,.gform_wrapper .gform_footer .form-input--file:focus input[type=submit],.gform_wrapper .gform_footer .form-input--file:hover input.button,.gform_wrapper .gform_footer .form-input--file:hover input[type=submit],.gform_wrapper .gform_page_footer .form-input--file:focus .button.gform_button,.gform_wrapper .gform_page_footer .form-input--file:focus .button.gform_next_button,.gform_wrapper .gform_page_footer .form-input--file:focus input.button,.gform_wrapper .gform_page_footer .form-input--file:focus input[type=submit],.gform_wrapper .gform_page_footer .form-input--file:hover .button.gform_button,.gform_wrapper .gform_page_footer .form-input--file:hover .button.gform_next_button,.gform_wrapper .gform_page_footer .form-input--file:hover input.button,.gform_wrapper .gform_page_footer .form-input--file:hover input[type=submit],.give-form-wrap #give-gateway-radio-list li .form-input--file:focus input:checked+.give-gateway-option,.give-form-wrap #give-gateway-radio-list li .form-input--file:hover input:checked+.give-gateway-option,.give-form-wrap .give-form .form-input--file:focus .give-submit,.give-form-wrap .give-form .form-input--file:hover .give-submit,.section--featured-article .card--article-full .form-input--file:focus .btn--read-more,.section--featured-article .card--article-full .form-input--file:hover .btn--read-more {
-    background: #064d32;
-    border-color: #064d32
+    background: #1F2437;
+    border-color: #1F2437
 }
 
 .form-input--checkbox .give-form-wrap .give-form #give-final-total-wrap .give-donation-total-label,.form-input--checkbox .give-form-wrap .give-form .give-label,.form-input--checkbox .label,.give-form-wrap .give-form #give-final-total-wrap .form-input--checkbox .give-donation-total-label,.give-form-wrap .give-form .form-input--checkbox .give-label {
@@ -4605,12 +4605,12 @@ form h2 {
 }
 
 .tile>a:focus .tile__btn,.tile>a:hover .tile__btn {
-    color: #064d32
+    color: #1F2437
 }
 
 .tile .tile__image {
     width: 100%;
-    background-color: #064d32;
+    background-color: #1F2437;
     background-image: inherit;
     background-position: center center;
     background-repeat: no-repeat;
@@ -4626,7 +4626,7 @@ form h2 {
 
 .tile .tile__image--square {
     width: 100%;
-    background-color: #064d32;
+    background-color: #1F2437;
     background-image: inherit;
     background-position: center center;
     background-repeat: no-repeat;
@@ -4693,7 +4693,7 @@ form h2 {
 
 .page-our-approach .tile .tile__title {
     font-size: 22px;
-    color: #064d32
+    color: #1F2437
 }
 
 h2+.grid--tiles {
@@ -4762,7 +4762,7 @@ h2+.grid--tiles {
 .tile--landing .flex-container .tile__caption .tile__title {
     font-size: 18px;
     font-size: 1.8rem;
-    color: #064d32;
+    color: #1F2437;
     margin-bottom: .11111em;
     line-height: 1.44444
 }
@@ -4900,7 +4900,7 @@ h2+.grid--tiles {
 
 .nav--main .submenu .h3 {
     font-family: leitura,lato,Calibre,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
-    color: #064d32;
+    color: #1F2437;
     line-height: 1.25;
     margin-bottom: 1em;
     font-size: 26px
@@ -5068,7 +5068,7 @@ h2+.grid--tiles {
 }
 
 .nav--subnav h2 {
-    color: #064d32;
+    color: #1F2437;
     margin-bottom: .63333em;
     font-size: 22px
 }
@@ -5087,7 +5087,7 @@ h2+.grid--tiles {
 }
 
 .nav--subnav ul li a:focus,.nav--subnav ul li a:hover {
-    color: #064d32;
+    color: #1F2437;
     padding-left: 3px
 }
 
@@ -5125,7 +5125,7 @@ h2+.grid--tiles {
 }
 
 .nav--subnav ul li.current-menu-item>a,.nav--subnav ul li.current-menu-item>span {
-    color: #064d32;
+    color: #1F2437;
     font-weight: 600;
     padding-left: 9px;
     position: relative
@@ -5264,7 +5264,7 @@ h2+.grid--tiles {
 }
 
 .nav--bar .nav--title {
-    color: #064d32;
+    color: #1F2437;
     font-family: leitura,lato,Calibre,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
     border-top: 1px solid #338632;
     border-bottom: 1px solid #338632;
@@ -5456,7 +5456,7 @@ h2+.grid--tiles {
 }
 
 .nav--why-wesley>ul .submenu li.current-menu-item>button {
-    background: #064d32;
+    background: #1F2437;
     color: #fff
 }
 
@@ -5529,7 +5529,7 @@ h2+.grid--tiles {
 .nav--subnav-event h2 {
     font-size: 26px;
     font-size: 2.6rem;
-    color: #064d32
+    color: #1F2437
 }
 
 .nav--subnav-event>ul>li>a {
@@ -5791,7 +5791,7 @@ h2+.grid--tiles {
 }
 
 .form--subscription .form-control:focus,.form--subscription .give-form-wrap .give-form .give-input:focus,.form--subscription .give-form-wrap .give-form .give-select:focus,.form--subscription .give-form-wrap .give-form .give-stripe-cc-field.focus,.form--subscription .give-form-wrap .give-form .give-stripe-cc-field:focus,.form--subscription .give-form-wrap .give-form .give-text-input:focus,.form--subscription .give-form-wrap .give-form .input:focus,.form--subscription .give-form-wrap .give-form .phone:focus,.form--subscription .give-form-wrap .give-form .textfield:focus,.form--subscription .give-form-wrap .give-form input:focus[type=tel],.form--subscription .give-form-wrap .give-form input:focus[type=text],.form--subscription .give-form-wrap .give-form select:focus,.form--subscription body .gform_wrapper input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file]),.form--subscription body .gform_wrapper select:focus,.form--subscription body .gform_wrapper textarea:focus,.give-form-wrap .give-form .form--subscription .give-input:focus,.give-form-wrap .give-form .form--subscription .give-select:focus,.give-form-wrap .give-form .form--subscription .give-stripe-cc-field.focus,.give-form-wrap .give-form .form--subscription .give-stripe-cc-field:focus,.give-form-wrap .give-form .form--subscription .give-text-input:focus,.give-form-wrap .give-form .form--subscription .input:focus,.give-form-wrap .give-form .form--subscription .phone:focus,.give-form-wrap .give-form .form--subscription .textfield:focus,.give-form-wrap .give-form .form--subscription input:focus[type=tel],.give-form-wrap .give-form .form--subscription input:focus[type=text],.give-form-wrap .give-form .form--subscription select:focus,body .gform_wrapper .form--subscription input:focus:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file]),body .gform_wrapper .form--subscription select:focus,body .gform_wrapper .form--subscription textarea:focus {
-    border-color: #064d32
+    border-color: #1F2437
 }
 
 .form--subscription .form-control:focus:-ms-input-placeholder,.form--subscription .give-form-wrap .give-form .give-input:focus:-ms-input-placeholder,.form--subscription .give-form-wrap .give-form .give-select:focus:-ms-input-placeholder,.form--subscription .give-form-wrap .give-form .give-stripe-cc-field.focus:-ms-input-placeholder,.form--subscription .give-form-wrap .give-form .give-stripe-cc-field:focus:-ms-input-placeholder,.form--subscription .give-form-wrap .give-form .give-text-input:focus:-ms-input-placeholder,.form--subscription .give-form-wrap .give-form .input:focus:-ms-input-placeholder,.form--subscription .give-form-wrap .give-form .phone:focus:-ms-input-placeholder,.form--subscription .give-form-wrap .give-form .textfield:focus:-ms-input-placeholder,.form--subscription .give-form-wrap .give-form input[type=tel]:focus:-ms-input-placeholder,.form--subscription .give-form-wrap .give-form input[type=text]:focus:-ms-input-placeholder,.form--subscription .give-form-wrap .give-form select:focus:-ms-input-placeholder,.form--subscription body .gform_wrapper input:not([type=file]):not([type=image]):not([type=button]):not([type=submit]):not([type=checkbox]):not([type=radio]):focus:-ms-input-placeholder,.form--subscription body .gform_wrapper select:focus:-ms-input-placeholder,.form--subscription body .gform_wrapper textarea:focus:-ms-input-placeholder,.give-form-wrap .give-form .form--subscription .give-input:focus:-ms-input-placeholder,.give-form-wrap .give-form .form--subscription .give-select:focus:-ms-input-placeholder,.give-form-wrap .give-form .form--subscription .give-stripe-cc-field.focus:-ms-input-placeholder,.give-form-wrap .give-form .form--subscription .give-stripe-cc-field:focus:-ms-input-placeholder,.give-form-wrap .give-form .form--subscription .give-text-input:focus:-ms-input-placeholder,.give-form-wrap .give-form .form--subscription .input:focus:-ms-input-placeholder,.give-form-wrap .give-form .form--subscription .phone:focus:-ms-input-placeholder,.give-form-wrap .give-form .form--subscription .textfield:focus:-ms-input-placeholder,.give-form-wrap .give-form .form--subscription input[type=tel]:focus:-ms-input-placeholder,.give-form-wrap .give-form .form--subscription input[type=text]:focus:-ms-input-placeholder,.give-form-wrap .give-form .form--subscription select:focus:-ms-input-placeholder,body .gform_wrapper .form--subscription input:not([type=file]):not([type=image]):not([type=button]):not([type=submit]):not([type=checkbox]):not([type=radio]):focus:-ms-input-placeholder,body .gform_wrapper .form--subscription select:focus:-ms-input-placeholder,body .gform_wrapper .form--subscription textarea:focus:-ms-input-placeholder {
@@ -6068,7 +6068,7 @@ h2+.grid--tiles {
     vertical-align: middle;
     text-align: center;
     pointer-events: none;
-    color: #064d32;
+    color: #1F2437;
     font-size: 10px;
     font-size: 1rem;
     height: 64px
@@ -6146,7 +6146,7 @@ h2+.grid--tiles {
 }
 
 .give-table thead td,.give-table thead th {
-    background: #064d32;
+    background: #1F2437;
     color: #fff;
     text-align: left;
     font-size: 16px;
@@ -6233,7 +6233,7 @@ h2+.grid--tiles {
 
 .grid--explore .card--cta {
     margin: 0 8px;
-    background-color: #064d32;
+    background-color: #1F2437;
     color: #fff
 }
 
@@ -6302,7 +6302,7 @@ h2+.grid--tiles {
     width: 40px;
     height: 40px;
     line-height: 40px;
-    background: #064d32;
+    background: #1F2437;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -6331,7 +6331,7 @@ h2+.grid--tiles {
 }
 
 .grid--social .tile a {
-    color: #064d32
+    color: #1F2437
 }
 
 .grid--social .tile a:focus,.grid--social .tile a:hover {
@@ -6418,7 +6418,7 @@ h2+.grid--tiles {
 }
 
 .latest-news h2 {
-    color: #064d32;
+    color: #1F2437;
     margin-bottom: 5px
 }
 
@@ -6534,7 +6534,7 @@ h2+.grid--tiles {
 }
 
 .grid--alternating .grid__block .flex-container>div.block__content .block__content-inner h2 {
-    color: #064d32;
+    color: #1F2437;
     font-size: 2.6rem;
     line-height: .93346
 }
@@ -6671,7 +6671,7 @@ h2+.accordion__group {
 .video>a {
     display: block;
     position: relative;
-    background-color: #064d32;
+    background-color: #1F2437;
     background-image: inherit;
     background-position: center center;
     background-repeat: no-repeat;
@@ -6725,7 +6725,7 @@ h2+.accordion__group {
 }
 
 .slider--image .slider__pagination .slick-arrow:focus,.slider--image .slider__pagination .slick-arrow:hover {
-    background: #064d32
+    background: #1F2437
 }
 
 .slider--image .slider__pagination .slick-arrow:before {
@@ -6762,7 +6762,7 @@ h2+.accordion__group {
 }
 
 .slider--image .slider__slide .slide__bg {
-    background-color: #064d32;
+    background-color: #1F2437;
     background-image: inherit;
     background-position: center center;
     background-repeat: no-repeat;
@@ -7017,7 +7017,7 @@ h2+.accordion__group {
 }
 
 .table thead td {
-    background: #064d32;
+    background: #1F2437;
     color: #fff;
     font-weight: 700;
     padding: 14px 29px 16px
@@ -7052,7 +7052,7 @@ h2+.accordion__group {
 }
 
 .enrol__block {
-    background: #064d32;
+    background: #1F2437;
     color: #fff;
     padding: 30px 20px 15px;
     font-size: 16px;
@@ -7213,8 +7213,8 @@ svg.campus-map .building--atlantis:hover .area {
 
 svg.campus-map .marker-disablility-access circle,svg.campus-map .marker-entry circle,svg.campus-map .marker-parking circle,svg.campus-map .marker-reception circle {
     transition: ease-in-out .2s;
-    fill: #064d32;
-    stroke: #064d32;
+    fill: #1F2437;
+    stroke: #1F2437;
     stroke-width: 0
 }
 
@@ -7412,7 +7412,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
     position: absolute;
     top: 5px;
     left: 0;
-    background: #064d32;
+    background: #1F2437;
     color: #fff;
     font-weight: 900;
     text-transform: uppercase;
@@ -7473,7 +7473,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 }
 
 .campus-map__popup .popup__image {
-    background-color: #064d32;
+    background-color: #1F2437;
     background-image: inherit;
     background-position: center center;
     background-repeat: no-repeat;
@@ -7505,7 +7505,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
     font-size: 18px;
     font-size: 1.8rem;
     line-height: 1.33333;
-    color: #064d32;
+    color: #1F2437;
     margin-bottom: .55556em
 }
 
@@ -7689,7 +7689,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 }
 
 .filter--event {
-    background-color: #064d32;
+    background-color: #1F2437;
     background-image: url(../../img/filter-bg.png);
     background-size: 100% auto;
     background-position: top center;
@@ -7802,7 +7802,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 
 .filter--event .btn--primary:focus,.filter--event .btn--primary:hover,.filter--event .gfield_fileupload input:focus[type=file],.filter--event .gfield_fileupload input:hover[type=file],.filter--event .gform_wrapper .gform_footer input.button:focus,.filter--event .gform_wrapper .gform_footer input.button:hover,.filter--event .gform_wrapper .gform_footer input:focus[type=submit],.filter--event .gform_wrapper .gform_footer input:hover[type=submit],.filter--event .gform_wrapper .gform_page_footer .button.gform_button:focus,.filter--event .gform_wrapper .gform_page_footer .button.gform_button:hover,.filter--event .gform_wrapper .gform_page_footer .button.gform_next_button:focus,.filter--event .gform_wrapper .gform_page_footer .button.gform_next_button:hover,.filter--event .gform_wrapper .gform_page_footer input.button:focus,.filter--event .gform_wrapper .gform_page_footer input.button:hover,.filter--event .gform_wrapper .gform_page_footer input:focus[type=submit],.filter--event .gform_wrapper .gform_page_footer input:hover[type=submit],.filter--event .give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option:focus,.filter--event .give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option:hover,.filter--event .give-form-wrap .give-form .give-submit:focus,.filter--event .give-form-wrap .give-form .give-submit:hover,.filter--event .section--featured-article .card--article-full .btn--read-more:focus,.filter--event .section--featured-article .card--article-full .btn--read-more:hover,.gfield_fileupload .filter--event input:focus[type=file],.gfield_fileupload .filter--event input:hover[type=file],.gform_wrapper .gform_footer .filter--event input.button:focus,.gform_wrapper .gform_footer .filter--event input.button:hover,.gform_wrapper .gform_footer .filter--event input:focus[type=submit],.gform_wrapper .gform_footer .filter--event input:hover[type=submit],.gform_wrapper .gform_page_footer .filter--event .button.gform_button:focus,.gform_wrapper .gform_page_footer .filter--event .button.gform_button:hover,.gform_wrapper .gform_page_footer .filter--event .button.gform_next_button:focus,.gform_wrapper .gform_page_footer .filter--event .button.gform_next_button:hover,.gform_wrapper .gform_page_footer .filter--event input.button:focus,.gform_wrapper .gform_page_footer .filter--event input.button:hover,.gform_wrapper .gform_page_footer .filter--event input:focus[type=submit],.gform_wrapper .gform_page_footer .filter--event input:hover[type=submit],.give-form-wrap #give-gateway-radio-list li .filter--event input:checked+.give-gateway-option:focus,.give-form-wrap #give-gateway-radio-list li .filter--event input:checked+.give-gateway-option:hover,.give-form-wrap .give-form .filter--event .give-submit:focus,.give-form-wrap .give-form .filter--event .give-submit:hover,.section--featured-article .card--article-full .filter--event .btn--read-more:focus,.section--featured-article .card--article-full .filter--event .btn--read-more:hover {
     background: #fff;
-    color: #064d32;
+    color: #1F2437;
     border-color: #fff
 }
 
@@ -7815,7 +7815,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 }
 
 .filter--event .btn--primary:focus .filter--count,.filter--event .btn--primary:hover .filter--count,.filter--event .gfield_fileupload input:focus[type=file] .filter--count,.filter--event .gfield_fileupload input:hover[type=file] .filter--count,.filter--event .gform_wrapper .gform_footer input.button:focus .filter--count,.filter--event .gform_wrapper .gform_footer input.button:hover .filter--count,.filter--event .gform_wrapper .gform_footer input:focus[type=submit] .filter--count,.filter--event .gform_wrapper .gform_footer input:hover[type=submit] .filter--count,.filter--event .gform_wrapper .gform_page_footer .button.gform_button:focus .filter--count,.filter--event .gform_wrapper .gform_page_footer .button.gform_button:hover .filter--count,.filter--event .gform_wrapper .gform_page_footer .button.gform_next_button:focus .filter--count,.filter--event .gform_wrapper .gform_page_footer .button.gform_next_button:hover .filter--count,.filter--event .gform_wrapper .gform_page_footer input.button:focus .filter--count,.filter--event .gform_wrapper .gform_page_footer input.button:hover .filter--count,.filter--event .gform_wrapper .gform_page_footer input:focus[type=submit] .filter--count,.filter--event .gform_wrapper .gform_page_footer input:hover[type=submit] .filter--count,.filter--event .give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option:focus .filter--count,.filter--event .give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option:hover .filter--count,.filter--event .give-form-wrap .give-form .give-submit:focus .filter--count,.filter--event .give-form-wrap .give-form .give-submit:hover .filter--count,.filter--event .section--featured-article .card--article-full .btn--read-more:focus .filter--count,.filter--event .section--featured-article .card--article-full .btn--read-more:hover .filter--count,.gfield_fileupload .filter--event input:focus[type=file] .filter--count,.gfield_fileupload .filter--event input:hover[type=file] .filter--count,.gform_wrapper .gform_footer .filter--event input.button:focus .filter--count,.gform_wrapper .gform_footer .filter--event input.button:hover .filter--count,.gform_wrapper .gform_footer .filter--event input:focus[type=submit] .filter--count,.gform_wrapper .gform_footer .filter--event input:hover[type=submit] .filter--count,.gform_wrapper .gform_page_footer .filter--event .button.gform_button:focus .filter--count,.gform_wrapper .gform_page_footer .filter--event .button.gform_button:hover .filter--count,.gform_wrapper .gform_page_footer .filter--event .button.gform_next_button:focus .filter--count,.gform_wrapper .gform_page_footer .filter--event .button.gform_next_button:hover .filter--count,.gform_wrapper .gform_page_footer .filter--event input.button:focus .filter--count,.gform_wrapper .gform_page_footer .filter--event input.button:hover .filter--count,.gform_wrapper .gform_page_footer .filter--event input:focus[type=submit] .filter--count,.gform_wrapper .gform_page_footer .filter--event input:hover[type=submit] .filter--count,.give-form-wrap #give-gateway-radio-list li .filter--event input:checked+.give-gateway-option:focus .filter--count,.give-form-wrap #give-gateway-radio-list li .filter--event input:checked+.give-gateway-option:hover .filter--count,.give-form-wrap .give-form .filter--event .give-submit:focus .filter--count,.give-form-wrap .give-form .filter--event .give-submit:hover .filter--count,.section--featured-article .card--article-full .filter--event .btn--read-more:focus .filter--count,.section--featured-article .card--article-full .filter--event .btn--read-more:hover .filter--count {
-    color: #064d32
+    color: #1F2437
 }
 
 .filter--event .btn--primary:focus .filter--count:before,.filter--event .btn--primary:hover .filter--count:before,.filter--event .gfield_fileupload input:focus[type=file] .filter--count:before,.filter--event .gfield_fileupload input:hover[type=file] .filter--count:before,.filter--event .gform_wrapper .gform_footer input.button:focus .filter--count:before,.filter--event .gform_wrapper .gform_footer input.button:hover .filter--count:before,.filter--event .gform_wrapper .gform_footer input:focus[type=submit] .filter--count:before,.filter--event .gform_wrapper .gform_footer input:hover[type=submit] .filter--count:before,.filter--event .gform_wrapper .gform_page_footer .button.gform_button:focus .filter--count:before,.filter--event .gform_wrapper .gform_page_footer .button.gform_button:hover .filter--count:before,.filter--event .gform_wrapper .gform_page_footer .button.gform_next_button:focus .filter--count:before,.filter--event .gform_wrapper .gform_page_footer .button.gform_next_button:hover .filter--count:before,.filter--event .gform_wrapper .gform_page_footer input.button:focus .filter--count:before,.filter--event .gform_wrapper .gform_page_footer input.button:hover .filter--count:before,.filter--event .gform_wrapper .gform_page_footer input:focus[type=submit] .filter--count:before,.filter--event .gform_wrapper .gform_page_footer input:hover[type=submit] .filter--count:before,.filter--event .give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option:focus .filter--count:before,.filter--event .give-form-wrap #give-gateway-radio-list li input:checked+.give-gateway-option:hover .filter--count:before,.filter--event .give-form-wrap .give-form .give-submit:focus .filter--count:before,.filter--event .give-form-wrap .give-form .give-submit:hover .filter--count:before,.filter--event .section--featured-article .card--article-full .btn--read-more:focus .filter--count:before,.filter--event .section--featured-article .card--article-full .btn--read-more:hover .filter--count:before,.gfield_fileupload .filter--event input:focus[type=file] .filter--count:before,.gfield_fileupload .filter--event input:hover[type=file] .filter--count:before,.gform_wrapper .gform_footer .filter--event input.button:focus .filter--count:before,.gform_wrapper .gform_footer .filter--event input.button:hover .filter--count:before,.gform_wrapper .gform_footer .filter--event input:focus[type=submit] .filter--count:before,.gform_wrapper .gform_footer .filter--event input:hover[type=submit] .filter--count:before,.gform_wrapper .gform_page_footer .filter--event .button.gform_button:focus .filter--count:before,.gform_wrapper .gform_page_footer .filter--event .button.gform_button:hover .filter--count:before,.gform_wrapper .gform_page_footer .filter--event .button.gform_next_button:focus .filter--count:before,.gform_wrapper .gform_page_footer .filter--event .button.gform_next_button:hover .filter--count:before,.gform_wrapper .gform_page_footer .filter--event input.button:focus .filter--count:before,.gform_wrapper .gform_page_footer .filter--event input.button:hover .filter--count:before,.gform_wrapper .gform_page_footer .filter--event input:focus[type=submit] .filter--count:before,.gform_wrapper .gform_page_footer .filter--event input:hover[type=submit] .filter--count:before,.give-form-wrap #give-gateway-radio-list li .filter--event input:checked+.give-gateway-option:focus .filter--count:before,.give-form-wrap #give-gateway-radio-list li .filter--event input:checked+.give-gateway-option:hover .filter--count:before,.give-form-wrap .give-form .filter--event .give-submit:focus .filter--count:before,.give-form-wrap .give-form .filter--event .give-submit:hover .filter--count:before,.section--featured-article .card--article-full .filter--event .btn--read-more:focus .filter--count:before,.section--featured-article .card--article-full .filter--event .btn--read-more:hover .filter--count:before {
@@ -7846,7 +7846,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 }
 
 .map {
-    background-color: #064d32;
+    background-color: #1F2437;
     background-image: url(../../img/map-static.jpg);
     background-size: cover;
     background-position: center center;
@@ -7899,7 +7899,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 }
 
 .loading__btn {
-    background: #064d32;
+    background: #1F2437;
     padding: 20px 50px;
     color: #fff;
     font-size: 12px;
@@ -8636,7 +8636,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 .card--centenary-cta .card__title {
     font-size: 11px;
     font-size: 1.1rem;
-    color: #064d32;
+    color: #1F2437;
     text-transform: uppercase;
     font-weight: 900;
     font-family: lato,Calibre,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
@@ -9274,7 +9274,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 .header--centenary .header__hamburger .patties>span {
     width: 100%;
     height: 2px;
-    background: #064d32;
+    background: #1F2437;
     display: block;
     transition: .2s ease-in-out;
     position: absolute;
@@ -9918,7 +9918,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 .header--main .header__mobile .btn--menu-toggle .patties>span {
     width: 100%;
     height: 2px;
-    background: #064d32;
+    background: #1F2437;
     display: block;
     transition: .2s ease-in-out;
     position: absolute;
@@ -9957,7 +9957,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 }
 
 .header--main .header__mobile .btn--phone:before,.header--main .header__mobile .btn--portal:before {
-    color: #064d32;
+    color: #1F2437;
     display: block;
     font-size: 20px;
     font-size: 2rem;
@@ -10022,7 +10022,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 }
 
 .header--secondary {
-    border-top: 10px solid #064d32;
+    border-top: 10px solid #1F2437;
     padding-top: 6.375%;
     position: absolute;
     top: 0;
@@ -10326,7 +10326,7 @@ svg.campus-map .marker-disablility-access.active path,svg.campus-map .marker-ent
 }
 
 .sidebar .sidebar__quote {
-    background-color: #064d32;
+    background-color: #1F2437;
     position: relative;
     color: #fff;
     padding-left: 30px;
@@ -10556,7 +10556,7 @@ html {
 .section__header .heading--line+.btn--link {
     margin: 0 auto;
     transform: translateY(-12px);
-    color: #064d32
+    color: #1F2437
 }
 
 .section__header .heading--line+.btn--link:focus,.section__header .heading--line+.btn--link:hover {
@@ -10771,13 +10771,13 @@ html {
     position: absolute;
     top: 27px;
     left: 0;
-    color: #064d32;
+    color: #1F2437;
     font-size: 18px;
     font-size: 1.8rem
 }
 
 .event__meta>div.event__meta--location .btn--link {
-    color: #064d32
+    color: #1F2437
 }
 
 .event__meta>div.event__meta--location .btn--link:focus,.event__meta>div.event__meta--location .btn--link:hover {
@@ -10951,7 +10951,7 @@ html {
 
 .section__news-events .btn--link {
     margin-top: 26px;
-    color: #064d32;
+    color: #1F2437;
     padding: 18px 15px;
     background: #f8f6f2;
     display: block;
@@ -11064,7 +11064,7 @@ html {
     display: block;
     width: 100%;
     overflow: hidden;
-    background: #064d32;
+    background: #1F2437;
     color: #fff;
     background-image: inherit;
     background-position: center center;
@@ -14904,7 +14904,7 @@ body .gform_wrapper ul.gform_fields>.gfield .ginput_container.ginput_container_s
     vertical-align: middle;
     text-align: center;
     pointer-events: none;
-    color: #064d32;
+    color: #1F2437;
     font-size: 10px;
     font-size: 1rem
 }
@@ -17518,7 +17518,7 @@ body .gform_wrapper.gf_browser_chrome ul.gform_fields li.gfield select {
     }
 
     .gfield_fileupload .grid--explore .card--cta input[type=file]+span,.grid--explore .card--cta .gfield_fileupload input[type=file]+span,.grid--explore .card--cta .list--toggle,.grid--explore .card--cta .pagination ul li .pagination-arrows__next,.grid--explore .card--cta .pagination ul li .pagination-arrows__prev,.grid--explore .card--cta .subtitle,.pagination ul li .grid--explore .card--cta .pagination-arrows__next,.pagination ul li .grid--explore .card--cta .pagination-arrows__prev {
-        color: #064d32
+        color: #1F2437
     }
 
     .grid--explore .card--cta:nth-child(1) {
@@ -17537,7 +17537,7 @@ body .gform_wrapper.gf_browser_chrome ul.gform_fields li.gfield select {
         position: absolute;
         bottom: 0;
         right: 0;
-        background: #064d32;
+        background: #1F2437;
         color: #fff;
         padding: 4.69945% 7.65027% 4.69945% 6.22951%;
         width: calc(100% - 30px);
